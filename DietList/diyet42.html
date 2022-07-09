@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html lang="tr" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+	<meta charset="utf-8"> <!-- utf-8 works for most cases -->
+	<meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+	<meta name="x-apple-disable-message-reformatting">  <!-- Disable auto-scale in iOS 10 Mail entirely -->
+	<title></title> <!-- The title tag shows in email notifications, like Android 4.4. -->
+
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet">
+
+
+	<style>
+
+		/* What it does: Remove spaces around the email design added by some email clients. */
+		/* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+		html,
+		body {
+			margin: 0 auto !important;
+			padding: 0 !important;
+			height: 100% !important;
+			width: 100% !important;
+			background: #f1f1f1;
+		}
+
+		.recipeItemQty{
+			font-weight: 600;
+			margin-right: .5rem;
+		}
+
+		ul {
+			position: relative;
+			list-style: none;
+			margin-left: 0;
+			padding-left: 1.8em;
+		}
+		ul li:before {
+			content: "?��";
+			position: absolute;
+			left: 0;
+		}
+
+
+
+
+		ol {
+			position: relative;
+			list-style: none;
+			margin-left: 0;
+			padding-left: 1.8em;
+		}
+		ol li:before {
+			content: "?��";
+			position: absolute;
+			left: 0;
+		}
+
+		/* What it does: Stops email clients resizing small text. */
+		* {
+			-ms-text-size-adjust: 100%;
+			-webkit-text-size-adjust: 100%;
+		}
+
+		/* What it does: Centers email on Android 4.4 */
+		div[style*="margin: 16px 0"] {
+			margin: 0 !important;
+		}
+
+		/* What it does: Stops Outlook from adding extra spacing to tables. */
+		table,
+		td {
+			mso-table-lspace: 0pt !important;
+			mso-table-rspace: 0pt !important;
+		}
+
+		/* What it does: Fixes webkit padding issue. */
+		table {
+			border-spacing: 0 !important;
+			border-collapse: collapse !important;
+			table-layout: fixed !important;
+			margin: 0 auto !important;
+		}
+
+		/* What it does: Uses a better rendering method when resizing images in IE. */
+		img {
+			-ms-interpolation-mode:bicubic;
+		}
+
+		/* What it does: Prevents Windows 10 Mail from underlining links despite inline CSS. Styles for underlined links should be inline. */
+		a {
+			text-decoration: none;
+		}
+
+		/* What it does: A work-around for email clients meddling in triggered links. */
+		*[x-apple-data-detectors],  /* iOS */
+		.unstyle-auto-detected-links *,
+		.aBn {
+			border-bottom: 0 !important;
+			cursor: default !important;
+			color: inherit !important;
+			text-decoration: none !important;
+			font-size: inherit !important;
+			font-family: inherit !important;
+			font-weight: inherit !important;
+			line-height: inherit !important;
+		}
+
+		/* What it does: Prevents Gmail from displaying a download button on large, non-linked images. */
+		.a6S {
+			display: none !important;
+			opacity: 0.01 !important;
+		}
+
+		/* What it does: Prevents Gmail from changing the text color in conversation threads. */
+		.im {
+			color: inherit !important;
+		}
+
+		/* If the above doesn't work, add a .g-img class to any image in question. */
+		img.g-img + div {
+			display: none !important;
+		}
+
+		/* What it does: Removes right gutter in Gmail iOS app: https://github.com/TedGoas/Cerberus/issues/89  */
+		/* Create one of these media queries for each additional viewport size you'd like to fix */
+
+		/* iPhone 4, 4S, 5, 5S, 5C, and 5SE */
+		@media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+			u ~ div .email-container {
+				min-width: 320px !important;
+			}
+		}
+		/* iPhone 6, 6S, 7, 8, and X */
+		@media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+			u ~ div .email-container {
+				min-width: 375px !important;
+			}
+		}
+		/* iPhone 6+, 7+, and 8+ */
+		@media only screen and (min-device-width: 414px) {
+			u ~ div .email-container {
+				min-width: 414px !important;
+			}
+		}
+
+	</style>
+
+	<!-- CSS Reset : END -->
+
+	<!-- Progressive Enhancements : BEGIN -->
+	<style>
+
+		/* What it does: Hover styles for buttons */
+		.primary{
+			background: #448ef6;
+		}
+		.bg_white{
+			background: #ffffff;
+		}
+		.bg_light{
+			background: #fafafa;
+		}
+		.bg_black{
+			background: #000000;
+		}
+		.bg_dark{
+			background: rgba(0,0,0,.8);
+		}
+		.email-section{
+		}
+
+		/*BUTTON*/
+		.btn{
+			padding: 5px 15px;
+			display: inline-block;
+		}
+		.btn.btn-primary{
+			border-radius: 30px;
+			background: #448ef6;
+			color: #ffffff;
+		}
+		.btn.btn-white{
+			border-radius: 30px;
+			background: #ffffff;
+			color: #000000;
+		}
+		.btn.btn-white-outline{
+			border-radius: 30px;
+			background: transparent;
+			border: 1px solid #fff;
+			color: #fff;
+		}
+
+		h1,h2,h3,h4,h5,h6{
+			font-family: 'Montserrat', sans-serif;
+			color: #000000;
+			margin-top: 0;
+			font-weight: 400;
+		}
+
+		body{
+			font-family: 'Montserrat', sans-serif;
+			font-weight: 400;
+			font-size: 15px;
+			line-height: 1.8;
+			color: rgba(0,0,0,.4);
+		}
+
+		a{
+			color: #448ef6;
+		}
+
+		table{
+		}
+		/*LOGO*/
+
+		.logo{
+			margin: 0;
+			display: inline-block;
+			position: absolute;
+			top: 10px;
+			left: 0;
+			right: 0;
+			margin-bottom: 0;
+		}
+
+		.logo a{
+			color: #fff;
+			font-size: 24px;
+			font-weight: 700;
+			text-transform: uppercase;
+			font-family: 'Montserrat', sans-serif;
+			display: inline-block;
+			border: 2px solid #fff;
+			line-height: 1.3;
+			padding: 10px 15px 4px 15px;
+			margin: 0;
+		}
+		.logo h1 a span{
+			line-height: 1;
+		}
+
+		.navigation{
+			padding: 0;
+		}
+		.navigation li{
+			list-style: none;
+			display: inline-block;;
+			margin-left: 5px;
+			font-size: 13px;
+			font-weight: 500;
+		}
+		.navigation li a{
+			color: rgba(0,0,0,.4);
+		}
+
+		/*HERO*/
+		.hero{
+			position: relative;
+			z-index: 0;
+		}
+
+		.hero .overlay{
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			content: '';
+			width: 100%;
+			background: #000000;
+			z-index: -1;
+			opacity: .3;
+		}
+
+		.hero .text{
+			color: rgba(255,255,255,.9);
+		}
+		.hero .text h2{
+			color: #fff;
+			font-size: 40px;
+			margin-bottom: 0;
+			font-weight: 600;
+			line-height: 1;
+			text-transform: uppercase;
+		}
+		.hero .text h2 span{
+			font-weight: 600;
+			color: #448ef6;
+		}
+
+
+		/*HEADING SECTION*/
+		.heading-section{
+		}
+		.heading-section h2{
+			color: #000000;
+			font-size: 28px;
+			margin-top: 0;
+			line-height: 1.4;
+			font-weight: 700;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+		}
+		.heading-section .subheading{
+			margin-bottom: 20px !important;
+			display: inline-block;
+			font-size: 13px;
+			text-transform: uppercase;
+			letter-spacing: 2px;
+			color: rgba(0,0,0,.4);
+			position: relative;
+		}
+		.heading-section .subheading::after{
+			position: absolute;
+			left: 0;
+			right: 0;
+			bottom: -10px;
+			content: '';
+			width: 100%;
+			height: 2px;
+			background: #448ef6;
+			margin: 0 auto;
+		}
+
+		.heading-section-white{
+			color: rgba(255,255,255,.8);
+		}
+		.heading-section-white h2{
+			font-family: 
+			line-height: 1;
+			padding-bottom: 0;
+		}
+		.heading-section-white h2{
+			color: #ffffff;
+		}
+		.heading-section-white .subheading{
+			margin-bottom: 0;
+			display: inline-block;
+			font-size: 13px;
+			text-transform: uppercase;
+			letter-spacing: 2px;
+			color: rgba(255,255,255,.4);
+		}
+
+
+		/*BLOG*/
+		.blog-entry{
+			border: 1px solid red;
+			padding-bottom: 30px !important !important;
+		}
+		.text-blog .meta{
+			text-transform: uppercase;
+			font-size: 13px;
+			margin-bottom: 0;
+		}
+
+		/*FOOTER*/
+
+		.footer{
+			color: rgba(255,255,255,.5);
+
+		}
+		.footer .heading{
+			color: #ffffff;
+			font-size: 20px;
+		}
+		.footer ul{
+			margin: 0;
+			padding: 0;
+		}
+		.footer ul li{
+			list-style: none;
+			margin-bottom: 10px;
+		}
+		.footer ul li a{
+			color: rgba(255,255,255,1);
+		}
+
+
+		@media screen and (max-width: 500px) {
+
+
+		}
+
+
+	</style>
+
+
+</head>
+
+<body width="100%" style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly; background-color: #222222;">
+	<center style="width: 100%; background-color: #f1f1f1;">
+		<div style="display: none; font-size: 1px;max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: sans-serif;">
+			&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+		</div>
+		<div style="max-width: 600px; margin: 0 auto;" class="email-container">
+			<!-- BEGIN BODY -->
+			<table align="center" role="presentation"  style="background-color: #fffbef" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;">
+				<tr>
+					<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+
+						<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//bobrek_agrisi.jpg" style=" width: 100%;
+						height: auto;">
+					</td>
+
+
+				</tr><!-- end tr -->
+				<tr>
+					<td class="bg_white email-section" style="background-color: #fffbef;">
+						<div class="heading-section" style="text-align: center; background:#fffbef; background-color: #fffbef; padding: 0 30px; margin-top: 48px">
+							<h2 style="font-weight: 500;" id="yemekadi"></h2>
+						</div>
+
+
+						<table role="presentation"  style="background-color: #fffbef; margin-top:48px !important;"   border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tr>
+								<td style="padding-bottom: 30px;">
+									<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+										<td valign="middle" width="50%">
+
+
+											<div style="
+											text-align: center;
+											width: 100%;
+											padding-top: 12px;
+											padding-bottom: 12px;">
+											<span style="margin: 0; font-size: 22px; color: #424242; font-weight: 600;">B?BREKLERİ TEMİZLEYEN BESİNLER!</span>
+										</div>
+
+										<div class="text-blog" style="text-align: left; 
+										margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+										<p id="malzemeler" style="font-size: 18px;  font-weight: 500; color: black">
+											Böbrek rahatsızlı?ı toplumda çok sık görülmesine ra?men belirtileri geç fark edilen bir rahatsızlıktır. ?lkemizde pek çok ki?i bu hastalı?ın farkında de?il. Yapılan ara?tırmalara göre kronik böbrek hastalarının sadece yüzde 10 bu rahatsızlı?ın farkındadır. Kronik böbrek hastalı?ı olanlar genellikle böbrek rahatsızlı?ını hastalı?ın son evrelerine gelindi?inde fark ederler. Böbrek rahatsızlı?ı doktorun te?hisi ile ortaya çıkan bir rahatsızlık olmasına ra?men kendinizde fark etti?iniz bazı durumlar hastalı?ın habercisi olabilir. 
+
+											<br><br><strong>YORGUN VE BİTKİN HİSSEDİYORSANIZ</strong><br>
+											Börek i?levlerinde azalma oldu?unda kan temizlenemez ve kanda bulunan zararlı maddeler artar. Bu da ki?ilerde halsizli?i neden olur. Bunun dı?ında böbrek hastalı?ı kansızlı?a bu da halsizli?i neden olur.
+											<br><br><strong>UYUYAMIYORSANIZ</strong><br>
+											Böbrekler kanı yeteri kadar temizleyemedi?i zaman zararlı maddeler kana geçmeye ba?lar, bu durumda beraberinde uyuyamama sorununu getirir.
+											<br><br><strong>CİLDİNİZ KURUYORSA VE KA?INIYORSA</strong><br>
+											Böbrekler kandaki mineral ve besin dengesini sa?layamadı?ında ciltte kurulu?a ve ka?ıntıya sebep olur.
+											<br><br><strong>SIK İDRARA ?IKIYORSANIZ</strong><br>
+											Böbreklerdeki filtrelerin hasar görmesi sık idrara çıkmanıza neden olur. ?zellikle geceleri idrara çıkmak böbrek hastalı?ının habercisi olabilir.
+											<br><br><strong>İDRARDA KAN G?R?YARSANIZ</strong><br>
+											Böbreklerdeki filtrelerde hasar meydana geldi?inde kan hücreleri idrar yollarına karı?maya ba?lar. İdrardan kan gelmesi böbreklerin düzenli çalı?madı?ına i?aret olabilece?i gibi çe?itli enfeksiyonlarında varlı?ına i?arettir.
+											<br><br><strong>G?ZLERİNİZİN ETRAFINDA İNMEYEN ?İ?LİK VARSA</strong><br>
+											Gözlerinizin etrafında olu?an ?i?likler geçmek bilmiyorsa bu bir böbrek rahatsızlı?ının i?areti olabilir. Bu gibi göz ?i?likleri vücutta tutulması gereken proteinin idrar yoluyla dı?arı atıldı?ının i?aretidir.
+											<br><br><strong>AYAK BİLEKLERİNİZ ?İ?İYORSA</strong><br>
+											Böbrek i?levleri azaldı?ında vücutta sodyum tutulması ya?anır. Bu tutulmada ellerde ve ayaklarda ?i?melere neden olur.
+											<br><br><strong>İ?TAHINIZ AZALDIYSA</strong><br>
+											Bu durum çok çe?itli nedenlerle ortaya çıkmı? olabilir. Ancak bu durum aynı zamanda bir böbrek rahatsızlı?ının da sonucudur.
+											<br><br><strong>KASLARINIZA KRAMP GİRİYORSA</strong><br>
+											Böbrek yetmezli?i vücutta bulunan mineral ve sıvı dengesizli?i böbrek i?levlerinin bozulmasının bir sonucudur. Kalsiyum ve fosfor dü?tü?ünde kaslarda a?rı ve kramplar olu?ur.
+										</p>
+									</div>
+								</td>
+							</table>
+						</td>
+					</tr>
+
+
+
+
+				</td>
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								margin-top: 48px;
+								padding-top: 12px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">ELMA</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									İçerisinde bol miktarda lif bulunduran elmayı böbrek hastalıklarından korunmak için tüketebilirsiniz. Ayrıca mesane ve idrar problemlerine kar?ı iyi geldi?i de bilinmektedir.
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//elma.jpg" style=" width: 100%;
+				height: auto;">
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								margin-top: 48px;
+								padding-top: 12px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">AYRIK OTU
+
+								</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Yol kenarlarında kolaylıkla bulabilece?iniz ayrık otu, pis kanı ve vücuttaki toksinleri temizler.
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//ayrik_otu.jpg" style=" width: 100%;
+				height: auto;">
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								padding-top: 12px;
+								margin-top: 48px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">BALKABA?I</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Böbrekte biriken ta?ların dı?arı atılmasını sa?lar. Böbrekleri temizler.
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//balkabagi.jpg" style=" width: 100%;
+				height: auto;">
+
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								padding-top: 12px;
+								margin-top: 48px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">MAYDANOZ</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Vücuda enerji vermesinin yanı sıra hastalıklara kar?ı kalkan görevini görür.
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//maydanoz.jpg" style=" width: 100%;
+				height: auto;">
+
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								padding-top: 12px;
+								margin-top: 48px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">KABAK ?EKİRDE?İ
+
+								</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									?inko ve demir minerallerini fazlasıyla içeren kabak çekirde?i, omega 3 etkisi ile de böbrek hastalıklarında oldukça etkilidir.
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//kabak_cekirdegi.jpg" style=" width: 100%;
+				height: auto;">
+
+
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								margin-top: 48px;
+								padding-top: 12px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">M?RD?M ERİ?İ
+
+								</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Vücutta demir emilimine yardımcı olan mürdüm eri?i, A-B-C vitaminleri açısından oldukça zengindir. Böbrek ba?ta olmak üzere, kalp ve kolesterol hastalıklarına da iyi gelir.
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//murdum_erik.jpg" style=" width: 100%;
+				height: auto;">
+
+
+
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								padding-top: 12px;
+								margin-top: 48px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">SOMON</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Tıpkı elma gibi hasta olmadan önce de hastalıktan koruyucu ve böbre?in rahat bir ?ekilde tüm fonksiyonları gerçekle?tirmesi için gerekli olan tüm mineralleri de içerir.
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//somon.jpg" style=" width: 100%;
+				height: auto;">
+
+
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								padding-top: 12px;
+								margin-top: 48px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">PİRİN?</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Pirinç ve pirinç lapaları böbrek hastalıklarında kaybolan kalorilerin yerine konması ve hastalık seyrinin düzelmesi, ya?am kalitesinin artması açısından oldukça önemlidir.
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//pirinc.jpg" style=" width: 100%;
+				height: auto;">
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								padding-top: 12px;
+								margin-top: 48px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">ADA?AYI</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Sindirim sistemine ba?lı birçok sorunu gideren adaçayı haftada birkaç defa tüketildi?inde hazımsızlık ve ?i?kinlik gibi sorunları giderir. İçerisinde bulundurdu?u A, B ve C vitaminleri sayesinde böbreklerinize ba?lı birçok rahatsızlı?ı önleyemeye yardımcı olur.
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//adacayi.jpg" style=" width: 100%;
+				height: auto;">
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								padding-top: 12px;
+								margin-top: 48px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">SU</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Su böbreklerimiz ve vücudumuzun en önemli ya?am kayna?ıdır. Böbreklerimizin iyi çalı?abilmesi ve günlük rutinlerini yerine getirebilmesi için günde birkaç litre tüketilmesi gerek su, gün boyu vücuda giren zararlı toksinleri vücuttan atmamızı sa?lar.
+
+
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//su.jpg" style=" width: 100%;
+				height: auto;">
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								margin-top: 48px;
+								padding-top: 12px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">YO?URT</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Yo?urt gibi mayalanmı? süt ürünleri probiyotik olmaları açısından böbrek için önemlidir. İyi bakteriler böbre?in ba?ı?ıklık kazanmasını sa?lar.
+
+
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//yogurt.jpg" style=" width: 100%;
+				height: auto;">
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								margin-top: 48px;
+								padding-top: 12px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">YE?İL SEBZELER
+
+								</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									A vitamini deposudur ve böbrek ta?larına kar?ı etkilidir. Ayrıca kolik rahatsızlı?ını hafifletir.
+
+
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//yesilsebzeler.jpg" style=" width: 100%;
+				height: auto;">
+
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								padding-top: 12px;
+								margin-top: 48px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">KARPUZ</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Karpuz diüretik özelli?iyle bilinir. Böbreklerdeki kumu temizler ve tuzun çözünmesini sa?lar.
+
+
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//karpuz1.jpg" style=" width: 100%;
+				height: auto;">
+
+
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								padding-top: 12px;
+								margin-top: 48px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">KU?BURNU</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Ku?burnu vücudun hastalıklarla sava?ma mekanizmalarını destekler.
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//kusburnu.jpg" style=" width: 100%;
+				height: auto;">
+
+
+
+
+
+				<tr>
+					<td style="padding-bottom: 30px;">
+						<table role="presentation"  style="background-color: #fffbef" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+							<td valign="middle" width="50%">
+
+								<div style="background-color: #fbc5b8;
+								text-align: center;
+								width: 100%;
+								margin-top: 48px;
+								padding-top: 12px;
+								padding-bottom: 12px;">
+								<span style="margin: 0; font-size: 18px; color: #424242; font-weight: 500;">SOYA PROTEİNİ
+
+								</span>
+							</div>
+
+
+							<div class="text-blog" style="text-align: left; margin-top: 48px; padding-left:25px;     padding-right: 25px;">
+								<p id="hazirlanisi" style="font-size: 18px; font-weight: 500; color: black">
+									Yo?un olarak fosfor aldı?ımızda, bunu vücuttan atmaya çalı?an böbrekler çok yoruluyor, kimi zaman hasar görüyor. Soya ürünleri tüketimi fazladan fosfor alımının da önüne geçti?i için böbreklerin yıpranma riski de ortadan kaldırılmı? olur.
+
+
+
+
+
+
+								</p>
+							</div>
+						</td>
+					</table>
+				</td>
+			</tr>
+
+
+			<td valign="middle" id="bigimage" class="hero bg_white" style=" background-size: cover; height: auto;">
+				<img src="https://raw.githubusercontent.com/repoofmyapps/Data/master/Images//soya_proteini.jpg" style=" width: 100%;
+				height: auto;">
+
+
+
+
+			</table>
+		</td>
+	</tr>
+</table>
+
+</div>
+</center>
+</body>
+</html>

@@ -1,0 +1,85 @@
+{
+    "DiyetRehberim":
+    [
+        {
+            "id": "8",
+            "image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/karnabahar.jpg",
+            "title": "KARNABAHAR",
+            "desc": "A Vitamini içerir.\nStres ve depresyonu azaltır.\nİdrar yolu enfeksiyonlarını iyileştirir.",
+            "tag": "content",
+            "related": "both",
+            "content": "content",
+            "url": "null"
+        },
+        {
+            "id": "7",
+            "image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/hurma.jpg",
+            "title": "HURMA",
+            "desc": "Kansere karşı koruyucu etki gösterir.\nBağışıklık sistemini güçlendirir.\nKansızlığa iyi gelir.",
+            "tag": "content",
+            "related": "both",
+            "content": "content",
+            "url": "null"
+        },
+        {
+            "id": "6",
+            "image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/yulaf.jpg",
+            "title": "YULAF",
+            "desc": "Lif, protein ve mineral deposudur.\nKilo vermeye yardımcıdır.",
+            "tag": "content",
+            "related": "both",
+            "content": "content",
+            "url": "null"
+        },
+        {
+            "id": "5",
+            "image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/yumurta.jpg",
+            "title": "YUMURTA",
+            "desc": "Bağışıklık sistemini güçlendirir.\nHer yumurta 6-12 gr arası protein içerir.",
+            "tag": "content",
+            "related": "both",
+            "content": "content",
+            "url": "null"
+        },
+        {
+            "id": "4",
+            "image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/badem.jpg",
+            "title": "BADEM",
+            "desc": "Protein ve yağ açısından önemli bir kaynaktır.\nAyrıca güçlü bir antioksidandır.",
+            "tag": "content",
+            "related": "both",
+            "content": "content",
+            "url": "null"
+        },
+        {
+            "id": "3",
+            "image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/balik_yagi.jpg",
+            "title": "BALIK YAĞI",
+            "desc": "Metabolizmanızı hızlandırır.\nYağ yakımına yardımcı olur.\nHafızanızı güçlendirir.",
+            "tag": "content",
+            "related": "both",
+            "content": "content",
+            "url": "null"
+        },
+        {
+            "id": "2",
+            "image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/muz.jpg",
+            "title": "MUZ",
+            "desc": "Bağırsak problemleriniz için sağlıklı ve besleyici bir meyve türüdür.",
+            "tag": "content",
+            "related": "both",
+            "content": "content",
+            "url": "null"
+        },
+        {
+            "id": "1",
+            "image": "https://raw.githubusercontent.com/repoofmyapps/Data/master/SliderImages/ispanak.jpg",
+            "title": "ISPANAK",
+            "desc": "Demir, iyot, potasyum, çinko ve kalsiyum açısından oldukça zengindir.",
+            "tag": "content",
+            "related": "both",
+            "content": "content",
+            "url": "null"
+        }
+    ]
+}

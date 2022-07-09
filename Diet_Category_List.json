@@ -1,0 +1,24 @@
+{
+  "DiyetRehberim":[
+    {
+      "id": 1,
+      "kategori_adi": "Kilo Verdiren Diyet Listeleri"
+    },
+    {
+      "id": 2,
+      "kategori_adi": "Kilo Aldıran Diyet Listeleri"
+    },
+    {
+      "id": 3,
+      "kategori_adi": "Faydalı İçerikler"
+    },
+    {
+      "id": 4,
+      "kategori_adi": "Vejetaryen Diyet Listeleri"
+    },
+    {
+      "id": 5,
+      "kategori_adi": "Ketojenik Diyet Listeleri"
+    }
+  ]
+}

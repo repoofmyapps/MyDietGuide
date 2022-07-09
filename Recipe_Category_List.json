@@ -1,0 +1,68 @@
+{
+  "DiyetRehberim":[
+    {
+      "id": 1,
+      "kategori_adi": "Ana Yemekler"
+    },
+    {
+      "id": 2,
+      "kategori_adi": "Diyet Tarifleri"
+    },
+    {
+      "id": 3,
+      "kategori_adi": "Çorbalar"
+    },
+    {
+      "id": 4,
+      "kategori_adi": "Salatalar"
+    },
+    {
+      "id": 5,
+      "kategori_adi": "Detoks Tarifleri"
+    },
+    {
+      "id": 6,
+      "kategori_adi": "Atıştırmalıklar"
+    },
+    {
+      "id": 7,
+      "kategori_adi": "Tatlılar"
+    },
+    {
+      "id": 8,
+      "kategori_adi": "Kahvaltılık Tarifler"
+    },
+    {
+      "id": 9,
+      "kategori_adi": "Hamur İşi Tarifleri"
+    },
+    {
+      "id": 10,
+      "kategori_adi": "Etli Yemekler"
+    },
+    {
+      "id": 11,
+      "kategori_adi": "Özel Gün Tarifleri"
+    },
+    {
+      "id": 12,
+      "kategori_adi": "Sulu Yemekler"
+    },
+    {
+      "id": 13,
+      "kategori_adi": "Mezeler"
+    },
+    {
+      "id": 14,
+      "kategori_adi": "Pratik Yemekler"
+    },
+    {
+      "id": 15,
+      "kategori_adi": "Vejetaryen Yemekleri"
+    },
+    {
+      "id": 16,
+      "kategori_adi": "Yöresel Yemekler"
+    }
+  ]
+}
