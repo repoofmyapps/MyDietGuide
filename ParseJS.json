@@ -666,7 +666,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -1035,7 +1035,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -1158,7 +1158,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -4701,7 +4701,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -4925,7 +4925,7 @@
                 {
                     "unit": "cup",
                     "calory": 110,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 28,
                     "protein": 0,
                     "fat": 0,
@@ -4947,11 +4947,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 13.75,
+                    "amount": "",
                     "carbohydrt": 3.5,
                     "protein": 0,
                     "fat": 0,
@@ -4978,6 +4979,7 @@
                 {
                     "unit": "ml",
                     "calory": 110,
+                    "amount": "",
                     "carbohydrt": 28,
                     "protein": 0,
                     "fat": 0,
@@ -5004,6 +5006,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.875,
+                    "amount": "",
                     "carbohydrt": 1.75,
                     "protein": 0,
                     "fat": 0,
@@ -5030,6 +5033,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.2916666666666665,
+                    "amount": "",
                     "carbohydrt": 0.5833333333333333,
                     "protein": 0,
                     "fat": 0,
@@ -5071,7 +5075,7 @@
                 {
                     "unit": "apple",
                     "calory": 100,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 25,
                     "protein": 0,
                     "fat": 0,
@@ -5093,7 +5097,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -5408,7 +5412,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -5531,7 +5535,7 @@
                     "vit_e": 0.30642202080000003,
                     "vit_k": 5.347064116,
                     "vit_b_6": 0.0612844075,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "small",
@@ -5735,7 +5739,7 @@
                     "vit_e": 0.0,
                     "vit_k": 1.6000000042000002,
                     "vit_b_6": 0.0399999996,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -5981,7 +5985,7 @@
                     "vit_e": 0.3006,
                     "vit_k": 5.343999999999999,
                     "vit_b_6": 0.06178999999999999,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "small",
@@ -6185,7 +6189,7 @@
                     "vit_e": 0.5056880732,
                     "vit_k": 5.5042200876,
                     "vit_b_6": 0.07779817,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -6389,7 +6393,7 @@
                     "vit_e": 0.3155963328,
                     "vit_k": 2.2407339044,
                     "vit_b_6": 0.0788990832,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "small",
@@ -6962,7 +6966,7 @@
                     "vit_e": 0.3456,
                     "vit_k": 1.92,
                     "vit_b_6": 0.0864,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -7289,7 +7293,7 @@
                     "vit_e": 0.5087999999999999,
                     "vit_k": 5.5120000000000005,
                     "vit_b_6": 0.07208,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -7471,7 +7475,7 @@
                 {
                     "unit": "apple",
                     "calory": 80,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 22,
                     "protein": 0,
                     "fat": 0,
@@ -7493,7 +7497,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -7658,7 +7662,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -8504,7 +8508,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -8627,7 +8631,7 @@
                     "vit_e": 0.45899999999999996,
                     "vit_k": 3.3659999999999997,
                     "vit_b_6": 0.23715,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -8750,7 +8754,7 @@
                     "vit_e": 0.31009174559999997,
                     "vit_k": 3.038899019,
                     "vit_b_6": 0.09302752029999999,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "small",
@@ -8954,7 +8958,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -9077,7 +9081,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -9200,7 +9204,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -9323,7 +9327,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -9446,7 +9450,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -9569,7 +9573,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -9692,7 +9696,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -10255,7 +10259,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 15,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 30,
                     "protein": 0,
                     "fat": 0,
@@ -10282,6 +10286,7 @@
                 {
                     "unit": "cup",
                     "calory": 120,
+                    "amount": "",
                     "carbohydrt": 240,
                     "protein": 0,
                     "fat": 0,
@@ -10308,6 +10313,7 @@
                 {
                     "unit": "ml",
                     "calory": 120,
+                    "amount": "",
                     "carbohydrt": 240,
                     "protein": 0,
                     "fat": 0,
@@ -10334,6 +10340,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 7.5,
+                    "amount": "",
                     "carbohydrt": 15,
                     "protein": 0,
                     "fat": 0,
@@ -10360,6 +10367,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.5,
+                    "amount": "",
                     "carbohydrt": 5,
                     "protein": 0,
                     "fat": 0,
@@ -10423,7 +10431,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -10524,7 +10532,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -10546,11 +10554,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -10577,6 +10586,7 @@
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -10603,6 +10613,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -10629,6 +10640,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -10692,7 +10704,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -10815,7 +10827,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -10938,7 +10950,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -11061,7 +11073,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -11184,7 +11196,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -11307,7 +11319,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -11430,7 +11442,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -11553,7 +11565,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -11676,7 +11688,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -12411,7 +12423,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
@@ -13394,7 +13406,7 @@
                 {
                     "unit": "tbsp",
                     "calory": 60,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 17,
                     "protein": 0,
                     "fat": 0,
@@ -13416,11 +13428,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 4.000000208616257,
+                    "amount": "",
                     "carbohydrt": 1.1333333924412727,
                     "protein": 0,
                     "fat": 0,
@@ -13447,6 +13460,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 120,
+                    "amount": "",
                     "carbohydrt": 34,
                     "protein": 0,
                     "fat": 0,
@@ -13473,6 +13487,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 20.000000596046448,
+                    "amount": "",
                     "carbohydrt": 5.6666668355464935,
                     "protein": 0,
                     "fat": 0,
@@ -13499,6 +13514,7 @@
                 {
                     "unit": "cup",
                     "calory": 960,
+                    "amount": "",
                     "carbohydrt": 272,
                     "protein": 0,
                     "fat": 0,
@@ -13685,7 +13701,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -13916,7 +13932,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -14039,7 +14055,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
@@ -14248,7 +14264,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 20,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 12.2,
                     "protein": 0,
                     "fat": 0,
@@ -14270,11 +14286,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 20,
+                    "amount": "",
                     "carbohydrt": 12.2,
                     "protein": 0,
                     "fat": 0,
@@ -14301,6 +14318,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 40,
+                    "amount": "",
                     "carbohydrt": 24.4,
                     "protein": 0,
                     "fat": 0,
@@ -14327,6 +14345,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 6.666666666666667,
+                    "amount": "",
                     "carbohydrt": 4.066666666666666,
                     "protein": 0,
                     "fat": 0,
@@ -14353,6 +14372,7 @@
                 {
                     "unit": "cup",
                     "calory": 320,
+                    "amount": "",
                     "carbohydrt": 195.2,
                     "protein": 0,
                     "fat": 0,
@@ -14416,7 +14436,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
@@ -14647,7 +14667,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
@@ -14878,7 +14898,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "serving",
@@ -15001,7 +15021,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
@@ -15232,7 +15252,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -15355,7 +15375,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -15586,7 +15606,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -15817,7 +15837,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -16117,7 +16137,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -16348,7 +16368,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -16579,7 +16599,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -16702,7 +16722,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -16921,7 +16941,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -17398,7 +17418,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.26666667450275233,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -17629,7 +17649,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "serving",
@@ -18241,7 +18261,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -18487,7 +18507,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "tablespoon",
@@ -18718,7 +18738,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -18841,7 +18861,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "tablespoon",
@@ -19050,7 +19070,7 @@
                 {
                     "unit": "cup",
                     "calory": 2.3466666666666667,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0.7466666666666667,
                     "protein": 0,
                     "fat": 0,
@@ -19072,11 +19092,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 2.2,
+                    "amount": "",
                     "carbohydrt": 0.7000000000000001,
                     "protein": 0,
                     "fat": 0,
@@ -19103,6 +19124,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0.29333333333333333,
+                    "amount": "",
                     "carbohydrt": 0.09333333333333334,
                     "protein": 0,
                     "fat": 0,
@@ -19129,6 +19151,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.04888888888888889,
+                    "amount": "",
                     "carbohydrt": 0.015555555555555557,
                     "protein": 0,
                     "fat": 0,
@@ -19155,6 +19178,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.14666666666666667,
+                    "amount": "",
                     "carbohydrt": 0.04666666666666667,
                     "protein": 0,
                     "fat": 0,
@@ -19218,7 +19242,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -19572,7 +19596,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.6666666865348816,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -19781,7 +19805,7 @@
                 {
                     "unit": "slices",
                     "calory": 70,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 1.3333333333333333,
                     "protein": 9.333333333333334,
                     "fat": 0.3333333333333333,
@@ -19845,7 +19869,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "tablespoon",
@@ -20076,7 +20100,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -20199,7 +20223,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -20322,7 +20346,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -20445,7 +20469,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -20568,7 +20592,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -20691,7 +20715,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "serving",
@@ -20814,7 +20838,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -20937,7 +20961,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "serving",
@@ -21291,7 +21315,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -21537,7 +21561,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -21783,7 +21807,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
@@ -22014,7 +22038,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -22137,7 +22161,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -22830,7 +22854,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -23415,7 +23439,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -23747,7 +23771,7 @@
                 {
                     "unit": "serving",
                     "calory": 260,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 50,
                     "protein": 12,
                     "fat": 3,
@@ -23769,7 +23793,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -23811,7 +23835,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -23934,7 +23958,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -24057,7 +24081,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -29274,7 +29298,7 @@
                     "vit_e": 7.6500002705,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
@@ -30230,7 +30254,7 @@
                 {
                     "unit": "cup",
                     "calory": 200,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 37,
                     "protein": 9,
                     "fat": 2.5,
@@ -30252,11 +30276,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0.8333333767950535,
+                    "amount": "",
                     "carbohydrt": 0.1541666747070849,
                     "protein": 0.03750000195577741,
                     "fat": 0.010416667209938169,
@@ -30283,6 +30308,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 25,
+                    "amount": "",
                     "carbohydrt": 4.625,
                     "protein": 1.125,
                     "fat": 0.3125,
@@ -30309,6 +30335,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 12.5,
+                    "amount": "",
                     "carbohydrt": 2.3125,
                     "protein": 0.5625,
                     "fat": 0.15625,
@@ -30335,6 +30362,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 4.16666679084301,
+                    "amount": "",
                     "carbohydrt": 0.7708333563059568,
                     "protein": 0.18750000558793545,
                     "fat": 0.052083334885537624,
@@ -30376,7 +30404,7 @@
                 {
                     "unit": "ml",
                     "calory": 47.8,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 19,
                     "protein": 0.2,
                     "fat": 2,
@@ -30403,6 +30431,7 @@
                 {
                     "unit": "cup",
                     "calory": 114.72,
+                    "amount": "",
                     "carbohydrt": 45.6,
                     "protein": 0.4800000000000001,
                     "fat": 4.8,
@@ -30429,6 +30458,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 7.17,
+                    "amount": "",
                     "carbohydrt": 2.85,
                     "protein": 0.030000000000000006,
                     "fat": 0.3,
@@ -30455,6 +30485,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 14.34,
+                    "amount": "",
                     "carbohydrt": 5.7,
                     "protein": 0.06000000000000001,
                     "fat": 0.6,
@@ -30481,6 +30512,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.39,
+                    "amount": "",
                     "carbohydrt": 0.9500000000000002,
                     "protein": 0.010000000000000002,
                     "fat": 0.1,
@@ -32085,7 +32117,7 @@
                 {
                     "unit": "cup",
                     "calory": 60,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 8,
                     "protein": 1,
                     "fat": 2.5,
@@ -32112,6 +32144,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 7.5,
+                    "amount": "",
                     "carbohydrt": 1,
                     "protein": 0.125,
                     "fat": 0.3125,
@@ -32138,6 +32171,7 @@
                 {
                     "unit": "ml",
                     "calory": 60,
+                    "amount": "",
                     "carbohydrt": 8,
                     "protein": 1,
                     "fat": 2.5,
@@ -32164,6 +32198,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 3.75,
+                    "amount": "",
                     "carbohydrt": 0.5,
                     "protein": 0.0625,
                     "fat": 0.15625,
@@ -32190,6 +32225,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.25,
+                    "amount": "",
                     "carbohydrt": 0.16666666666666666,
                     "protein": 0.020833333333333332,
                     "fat": 0.052083333333333336,
@@ -32253,7 +32289,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -32924,7 +32960,7 @@
                 {
                     "unit": "cup",
                     "calory": 150,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 12,
                     "protein": 8,
                     "fat": 8,
@@ -32946,11 +32982,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 18.75,
+                    "amount": "",
                     "carbohydrt": 1.5,
                     "protein": 1,
                     "fat": 1,
@@ -32977,6 +33014,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.6250000325962901,
+                    "amount": "",
                     "carbohydrt": 0.05000000260770321,
                     "protein": 0.03333333507180214,
                     "fat": 0.03333333507180214,
@@ -33003,6 +33041,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 9.375,
+                    "amount": "",
                     "carbohydrt": 0.75,
                     "protein": 0.5,
                     "fat": 0.5,
@@ -33029,6 +33068,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 3.1250000931322575,
+                    "amount": "",
                     "carbohydrt": 0.2500000074505806,
                     "protein": 0.1666666716337204,
                     "fat": 0.1666666716337204,
@@ -33350,7 +33390,7 @@
                     "vit_e": 7.649399996,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -33790,7 +33830,7 @@
                 {
                     "unit": "cup",
                     "calory": 64,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 15.2,
                     "protein": 0.8,
                     "fat": 0.8,
@@ -33812,11 +33852,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0.2666666805744171,
+                    "amount": "",
                     "carbohydrt": 0.06333333663642406,
                     "protein": 0.003333333507180214,
                     "fat": 0.003333333507180214,
@@ -33843,6 +33884,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 80,
+                    "amount": "",
                     "carbohydrt": 19,
                     "protein": 1,
                     "fat": 1,
@@ -33869,6 +33911,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.3333333730697632,
+                    "amount": "",
                     "carbohydrt": 0.31666667610406873,
                     "protein": 0.01666666716337204,
                     "fat": 0.01666666716337204,
@@ -33895,6 +33938,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 4,
+                    "amount": "",
                     "carbohydrt": 0.95,
                     "protein": 0.05,
                     "fat": 0.05,
@@ -34189,7 +34233,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -36354,7 +36398,7 @@
                 {
                     "unit": "cup",
                     "calory": 152.54237288135593,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 12.203389830508474,
                     "protein": 8.135593220338983,
                     "fat": 8.135593220338983,
@@ -36376,11 +36420,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 150,
+                    "amount": "",
                     "carbohydrt": 12,
                     "protein": 8,
                     "fat": 8,
@@ -36407,6 +36452,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 19.06779661016949,
+                    "amount": "",
                     "carbohydrt": 1.5254237288135593,
                     "protein": 1.0169491525423728,
                     "fat": 1.0169491525423728,
@@ -36433,6 +36479,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 3.1779661016949152,
+                    "amount": "",
                     "carbohydrt": 0.2542372881355932,
                     "protein": 0.1694915254237288,
                     "fat": 0.1694915254237288,
@@ -36459,6 +36506,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 9.533898305084746,
+                    "amount": "",
                     "carbohydrt": 0.7627118644067796,
                     "protein": 0.5084745762711864,
                     "fat": 0.5084745762711864,
@@ -37038,7 +37086,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -37493,7 +37541,7 @@
                 {
                     "unit": "cup",
                     "calory": 110,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 13,
                     "protein": 9,
                     "fat": 2.5,
@@ -37515,11 +37563,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 13.75,
+                    "amount": "",
                     "carbohydrt": 1.625,
                     "protein": 1.125,
                     "fat": 0.3125,
@@ -37546,6 +37595,7 @@
                 {
                     "unit": "ml",
                     "calory": 110,
+                    "amount": "",
                     "carbohydrt": 13,
                     "protein": 9,
                     "fat": 2.5,
@@ -37572,6 +37622,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.875,
+                    "amount": "",
                     "carbohydrt": 0.8125,
                     "protein": 0.5625,
                     "fat": 0.15625,
@@ -37598,6 +37649,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.2916666666666665,
+                    "amount": "",
                     "carbohydrt": 0.2708333333333333,
                     "protein": 0.1875,
                     "fat": 0.05208333333333333,
@@ -37639,7 +37691,7 @@
                 {
                     "unit": "cup",
                     "calory": 100,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 12,
                     "protein": 8,
                     "fat": 2.5,
@@ -37661,11 +37713,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 100,
+                    "amount": "",
                     "carbohydrt": 12,
                     "protein": 8,
                     "fat": 2.5,
@@ -37692,6 +37745,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 12.5,
+                    "amount": "",
                     "carbohydrt": 1.5,
                     "protein": 1,
                     "fat": 0.3125,
@@ -37718,6 +37772,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.0833333333333335,
+                    "amount": "",
                     "carbohydrt": 0.25,
                     "protein": 0.16666666666666669,
                     "fat": 0.05208333333333334,
@@ -37744,6 +37799,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.25,
+                    "amount": "",
                     "carbohydrt": 0.75,
                     "protein": 0.5,
                     "fat": 0.15625,
@@ -38016,7 +38072,7 @@
                 {
                     "unit": "cup",
                     "calory": 238.25665859564165,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 32.54237288135593,
                     "protein": 8.716707021791768,
                     "fat": 8.716707021791768,
@@ -38038,11 +38094,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 410,
+                    "amount": "",
                     "carbohydrt": 56,
                     "protein": 15,
                     "fat": 15,
@@ -38069,6 +38126,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 29.782082324455207,
+                    "amount": "",
                     "carbohydrt": 4.067796610169491,
                     "protein": 1.089588377723971,
                     "fat": 1.089588377723971,
@@ -38095,6 +38153,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 4.963680387409201,
+                    "amount": "",
                     "carbohydrt": 0.6779661016949151,
                     "protein": 0.18159806295399517,
                     "fat": 0.18159806295399517,
@@ -38121,6 +38180,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 14.891041162227603,
+                    "amount": "",
                     "carbohydrt": 2.0338983050847457,
                     "protein": 0.5447941888619855,
                     "fat": 0.5447941888619855,
@@ -38162,7 +38222,7 @@
                 {
                     "unit": "cup",
                     "calory": 220,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 29,
                     "protein": 9,
                     "fat": 8,
@@ -38184,11 +38244,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 220,
+                    "amount": "",
                     "carbohydrt": 29,
                     "protein": 9,
                     "fat": 8,
@@ -38215,6 +38276,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 27.5,
+                    "amount": "",
                     "carbohydrt": 3.625,
                     "protein": 1.125,
                     "fat": 1,
@@ -38241,6 +38303,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 13.75,
+                    "amount": "",
                     "carbohydrt": 1.8125,
                     "protein": 0.5625,
                     "fat": 0.5,
@@ -38267,6 +38330,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 4.583333333333333,
+                    "amount": "",
                     "carbohydrt": 0.6041666666666666,
                     "protein": 0.1875,
                     "fat": 0.16666666666666666,
@@ -38330,7 +38394,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -38453,7 +38517,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -42152,7 +42216,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -42398,7 +42462,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -42863,7 +42927,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -42986,7 +43050,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -44650,7 +44714,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 16.25,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 32,
                     "protein": 1,
                     "fat": 0,
@@ -44677,6 +44741,7 @@
                 {
                     "unit": "ml",
                     "calory": 130,
+                    "amount": "",
                     "carbohydrt": 256,
                     "protein": 8,
                     "fat": 0,
@@ -44703,6 +44768,7 @@
                 {
                     "unit": "cup",
                     "calory": 130,
+                    "amount": "",
                     "carbohydrt": 256,
                     "protein": 8,
                     "fat": 0,
@@ -44729,6 +44795,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.7083333333333335,
+                    "amount": "",
                     "carbohydrt": 5.333333333333334,
                     "protein": 0.16666666666666669,
                     "fat": 0,
@@ -44755,6 +44822,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 8.125,
+                    "amount": "",
                     "carbohydrt": 16,
                     "protein": 0.5,
                     "fat": 0,
@@ -45952,7 +46020,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -46075,7 +46143,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.500000004,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -46198,7 +46266,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -46321,7 +46389,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -47341,7 +47409,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -47587,7 +47655,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -47941,7 +48009,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -48042,7 +48110,7 @@
                 {
                     "unit": "cup",
                     "calory": 164.053537296,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 25.44,
                     "protein": 8.16,
                     "fat": 4.08,
@@ -48069,6 +48137,7 @@
                 {
                     "unit": "ml",
                     "calory": 68.35564054,
+                    "amount": "",
                     "carbohydrt": 10.6,
                     "protein": 3.3999999999999995,
                     "fat": 1.6999999999999997,
@@ -48095,6 +48164,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 20.506692162,
+                    "amount": "",
                     "carbohydrt": 3.18,
                     "protein": 1.02,
                     "fat": 0.51,
@@ -48121,6 +48191,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 3.4177820269999994,
+                    "amount": "",
                     "carbohydrt": 0.5299999999999999,
                     "protein": 0.16999999999999998,
                     "fat": 0.08499999999999999,
@@ -48147,6 +48218,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 10.253346081,
+                    "amount": "",
                     "carbohydrt": 1.59,
                     "protein": 0.51,
                     "fat": 0.255,
@@ -48210,7 +48282,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -48434,7 +48506,7 @@
                 {
                     "unit": "ml",
                     "calory": 170,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 7,
                     "protein": 26,
                     "fat": 4.5,
@@ -48456,11 +48528,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 12.318840579710145,
+                    "amount": "",
                     "carbohydrt": 0.5072463768115942,
                     "protein": 1.8840579710144927,
                     "fat": 0.32608695652173914,
@@ -48487,6 +48560,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.0531400966183573,
+                    "amount": "",
                     "carbohydrt": 0.08454106280193237,
                     "protein": 0.3140096618357488,
                     "fat": 0.05434782608695651,
@@ -48513,6 +48587,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.159420289855072,
+                    "amount": "",
                     "carbohydrt": 0.2536231884057971,
                     "protein": 0.9420289855072463,
                     "fat": 0.16304347826086957,
@@ -48539,6 +48614,7 @@
                 {
                     "unit": "cup",
                     "calory": 98.55072463768116,
+                    "amount": "",
                     "carbohydrt": 4.057971014492754,
                     "protein": 15.072463768115941,
                     "fat": 2.608695652173913,
@@ -48602,7 +48678,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -48826,7 +48902,7 @@
                 {
                     "unit": "serving",
                     "calory": 250,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 33,
                     "protein": 3,
                     "fat": 12,
@@ -48848,7 +48924,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -48890,7 +48966,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -49013,7 +49089,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -49114,7 +49190,7 @@
                 {
                     "unit": "cup",
                     "calory": 100,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 22,
                     "protein": 1,
                     "fat": 0,
@@ -49136,11 +49212,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 12.5,
+                    "amount": "",
                     "carbohydrt": 2.75,
                     "protein": 0.125,
                     "fat": 0,
@@ -49167,6 +49244,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.41666668839752674,
+                    "amount": "",
                     "carbohydrt": 0.09166667144745588,
                     "protein": 0.004166666883975267,
                     "fat": 0,
@@ -49193,6 +49271,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.25,
+                    "amount": "",
                     "carbohydrt": 1.375,
                     "protein": 0.0625,
                     "fat": 0,
@@ -49219,6 +49298,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.083333395421505,
+                    "amount": "",
                     "carbohydrt": 0.4583333469927311,
                     "protein": 0.02083333395421505,
                     "fat": 0,
@@ -49260,7 +49340,7 @@
                 {
                     "unit": "loaf",
                     "calory": 98.70936902,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 19.4,
                     "protein": 2.4,
                     "fat": 1.6,
@@ -49282,7 +49362,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -49324,7 +49404,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -49548,7 +49628,7 @@
                 {
                     "unit": "banana",
                     "calory": 350,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 59,
                     "protein": 5,
                     "fat": 11,
@@ -49570,7 +49650,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -49612,7 +49692,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -52072,7 +52152,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -52195,7 +52275,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -52296,7 +52376,7 @@
                 {
                     "unit": "sandwich",
                     "calory": 360,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 46,
                     "protein": 12,
                     "fat": 17,
@@ -52338,7 +52418,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 50,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 13,
                     "protein": 0,
                     "fat": 0,
@@ -52360,11 +52440,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
                     "calory": 16.666666666666668,
+                    "amount": "",
                     "carbohydrt": 4.333333333333334,
                     "protein": 0,
                     "fat": 0,
@@ -52391,6 +52472,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 100,
+                    "amount": "",
                     "carbohydrt": 26,
                     "protein": 0,
                     "fat": 0,
@@ -52417,6 +52499,7 @@
                 {
                     "unit": "ml",
                     "calory": 50,
+                    "amount": "",
                     "carbohydrt": 13,
                     "protein": 0,
                     "fat": 0,
@@ -52443,6 +52526,7 @@
                 {
                     "unit": "cup",
                     "calory": 800,
+                    "amount": "",
                     "carbohydrt": 208,
                     "protein": 0,
                     "fat": 0,
@@ -52629,7 +52713,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
@@ -53010,7 +53094,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
@@ -55079,7 +55163,7 @@
                 {
                     "unit": "cup",
                     "calory": 122.06719999999999,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 16.64,
                     "protein": 0.64,
                     "fat": 0.64,
@@ -55101,11 +55185,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 190.73,
+                    "amount": "",
                     "carbohydrt": 26,
                     "protein": 1.0000000000000002,
                     "fat": 1.0000000000000002,
@@ -55132,6 +55217,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 15.258399999999998,
+                    "amount": "",
                     "carbohydrt": 2.08,
                     "protein": 0.08,
                     "fat": 0.08,
@@ -55158,6 +55244,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.543066666666667,
+                    "amount": "",
                     "carbohydrt": 0.34666666666666673,
                     "protein": 0.013333333333333336,
                     "fat": 0.013333333333333336,
@@ -55184,6 +55271,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 7.629199999999999,
+                    "amount": "",
                     "carbohydrt": 1.04,
                     "protein": 0.04,
                     "fat": 0.04,
@@ -55225,7 +55313,7 @@
                 {
                     "unit": "ml",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -55247,11 +55335,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -55278,6 +55367,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -55304,6 +55394,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -55330,6 +55421,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -55371,7 +55463,7 @@
                 {
                     "unit": "ml",
                     "calory": 140,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 39,
                     "protein": 0,
                     "fat": 0,
@@ -55393,11 +55485,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 11.830985915492958,
+                    "amount": "",
                     "carbohydrt": 3.295774647887324,
                     "protein": 0,
                     "fat": 0,
@@ -55424,6 +55517,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.971830985915493,
+                    "amount": "",
                     "carbohydrt": 0.5492957746478874,
                     "protein": 0,
                     "fat": 0,
@@ -55450,6 +55544,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 5.915492957746479,
+                    "amount": "",
                     "carbohydrt": 1.647887323943662,
                     "protein": 0,
                     "fat": 0,
@@ -55476,6 +55571,7 @@
                 {
                     "unit": "cup",
                     "calory": 94.64788732394366,
+                    "amount": "",
                     "carbohydrt": 26.366197183098592,
                     "protein": 0,
                     "fat": 0,
@@ -56387,7 +56483,7 @@
                 {
                     "unit": "ml",
                     "calory": 120,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 33,
                     "protein": 0,
                     "fat": 0,
@@ -56409,11 +56505,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 15,
+                    "amount": "",
                     "carbohydrt": 4.125,
                     "protein": 0,
                     "fat": 0,
@@ -56440,6 +56537,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.5,
+                    "amount": "",
                     "carbohydrt": 0.6875,
                     "protein": 0,
                     "fat": 0,
@@ -56466,6 +56564,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 7.5,
+                    "amount": "",
                     "carbohydrt": 2.0625,
                     "protein": 0,
                     "fat": 0,
@@ -56492,6 +56591,7 @@
                 {
                     "unit": "cup",
                     "calory": 120,
+                    "amount": "",
                     "carbohydrt": 33,
                     "protein": 0,
                     "fat": 0,
@@ -56656,7 +56756,7 @@
                 {
                     "unit": "ml",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -56678,11 +56778,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -56709,6 +56810,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -56735,6 +56837,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -56761,6 +56864,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -56802,7 +56906,7 @@
                 {
                     "unit": "cup",
                     "calory": 49.352112676056336,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 1.352112676056338,
                     "fat": 0,
@@ -56824,11 +56928,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 73,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 2,
                     "fat": 0,
@@ -56855,6 +56960,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 6.169014084507042,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0.16901408450704225,
                     "fat": 0,
@@ -56881,6 +56987,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.028169014084507,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0.02816901408450704,
                     "fat": 0,
@@ -56907,6 +57014,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 3.084507042253521,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0.08450704225352113,
                     "fat": 0,
@@ -56970,7 +57078,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -57071,7 +57179,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 11.830985915492958,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 32.95774647887324,
                     "protein": 0,
                     "fat": 0,
@@ -57093,11 +57201,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 94.64788732394366,
+                    "amount": "",
                     "carbohydrt": 263.6619718309859,
                     "protein": 0,
                     "fat": 0,
@@ -57124,6 +57233,7 @@
                 {
                     "unit": "ml",
                     "calory": 140,
+                    "amount": "",
                     "carbohydrt": 390,
                     "protein": 0,
                     "fat": 0,
@@ -57150,6 +57260,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 5.915492957746479,
+                    "amount": "",
                     "carbohydrt": 16.47887323943662,
                     "protein": 0,
                     "fat": 0,
@@ -57176,6 +57287,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.971830985915493,
+                    "amount": "",
                     "carbohydrt": 5.492957746478874,
                     "protein": 0,
                     "fat": 0,
@@ -57217,7 +57329,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -57239,11 +57351,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -57270,6 +57383,7 @@
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -57296,6 +57410,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -57322,6 +57437,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -57363,7 +57479,7 @@
                 {
                     "unit": "can",
                     "calory": 150,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 40,
                     "protein": 0,
                     "fat": 0,
@@ -57385,7 +57501,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -57405,7 +57521,7 @@
                 {
                     "unit": "bottle",
                     "calory": 160,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 43,
                     "protein": 0,
                     "fat": 0,
@@ -57427,7 +57543,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -57447,7 +57563,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 11.666666666666666,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 38,
                     "protein": 0,
                     "fat": 0,
@@ -57469,11 +57585,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 93.33333333333333,
+                    "amount": "",
                     "carbohydrt": 304,
                     "protein": 0,
                     "fat": 0,
@@ -57500,6 +57617,7 @@
                 {
                     "unit": "ml",
                     "calory": 140,
+                    "amount": "",
                     "carbohydrt": 456,
                     "protein": 0,
                     "fat": 0,
@@ -57526,6 +57644,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 5.833333333333333,
+                    "amount": "",
                     "carbohydrt": 19,
                     "protein": 0,
                     "fat": 0,
@@ -57552,6 +57671,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.9444444444444444,
+                    "amount": "",
                     "carbohydrt": 6.333333333333333,
                     "protein": 0,
                     "fat": 0,
@@ -57615,7 +57735,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -57716,7 +57836,7 @@
                 {
                     "unit": "can",
                     "calory": 140,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 38,
                     "protein": 0,
                     "fat": 0,
@@ -57738,7 +57858,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -57758,7 +57878,7 @@
                 {
                     "unit": "ml",
                     "calory": 3.3460803099999996,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -57785,6 +57905,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 1.003824093,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -57811,6 +57932,7 @@
                 {
                     "unit": "cup",
                     "calory": 8.030592744,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -57837,6 +57959,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.1673040155,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -57863,6 +57986,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.5019120465,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -57904,7 +58028,7 @@
                 {
                     "unit": "can",
                     "calory": 3.82409178,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0.4,
                     "protein": 0.2,
                     "fat": 0,
@@ -57946,7 +58070,7 @@
                 {
                     "unit": "ml",
                     "calory": 2.34225621,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0.45,
                     "protein": 0.15,
                     "fat": 0,
@@ -57968,11 +58092,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 2.2485659615999998,
+                    "amount": "",
                     "carbohydrt": 0.43199999999999994,
                     "protein": 0.144,
                     "fat": 0,
@@ -57999,6 +58124,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0.28107074519999997,
+                    "amount": "",
                     "carbohydrt": 0.05399999999999999,
                     "protein": 0.018,
                     "fat": 0,
@@ -58025,6 +58151,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.0468451242,
+                    "amount": "",
                     "carbohydrt": 0.009,
                     "protein": 0.0029999999999999996,
                     "fat": 0,
@@ -58051,6 +58178,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.14053537259999999,
+                    "amount": "",
                     "carbohydrt": 0.026999999999999996,
                     "protein": 0.009,
                     "fat": 0,
@@ -58092,7 +58220,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 100,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 2.6,
                     "protein": 0,
                     "fat": 0,
@@ -58114,11 +58242,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0.2777777922650178,
+                    "amount": "",
                     "carbohydrt": 0.007222222598890463,
                     "protein": 0,
                     "fat": 0,
@@ -58145,6 +58274,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.3888889302810032,
+                    "amount": "",
                     "carbohydrt": 0.03611111218730609,
                     "protein": 0,
                     "fat": 0,
@@ -58171,6 +58301,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 4.166666666666667,
+                    "amount": "",
                     "carbohydrt": 0.10833333333333334,
                     "protein": 0,
                     "fat": 0,
@@ -58197,6 +58328,7 @@
                 {
                     "unit": "cup",
                     "calory": 66.66666666666667,
+                    "amount": "",
                     "carbohydrt": 1.7333333333333334,
                     "protein": 0,
                     "fat": 0,
@@ -58238,7 +58370,7 @@
                 {
                     "unit": "can",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -58260,7 +58392,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -58302,7 +58434,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -58403,7 +58535,7 @@
                 {
                     "unit": "ml",
                     "calory": 100,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -58425,11 +58557,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 8.450704225352112,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -58456,6 +58589,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.408450704225352,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -58482,6 +58616,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 4.225352112676056,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -58508,6 +58643,7 @@
                 {
                     "unit": "cup",
                     "calory": 67.6056338028169,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -58549,7 +58685,7 @@
                 {
                     "unit": "ml",
                     "calory": 129.06309751,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 13,
                     "protein": 0.1,
                     "fat": 0,
@@ -58571,11 +58707,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 12.906309751,
+                    "amount": "",
                     "carbohydrt": 1.3,
                     "protein": 0.01,
                     "fat": 0,
@@ -58602,6 +58739,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.1510516251666667,
+                    "amount": "",
                     "carbohydrt": 0.21666666666666665,
                     "protein": 0.0016666666666666666,
                     "fat": 0,
@@ -58628,6 +58766,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.4531548755,
+                    "amount": "",
                     "carbohydrt": 0.65,
                     "protein": 0.005,
                     "fat": 0,
@@ -58654,6 +58793,7 @@
                 {
                     "unit": "cup",
                     "calory": 103.250478008,
+                    "amount": "",
                     "carbohydrt": 10.4,
                     "protein": 0.08,
                     "fat": 0,
@@ -58695,7 +58835,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 13.75,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 43.75,
                     "protein": 0,
                     "fat": 0,
@@ -58717,11 +58857,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 110,
+                    "amount": "",
                     "carbohydrt": 350,
                     "protein": 0,
                     "fat": 0,
@@ -58748,6 +58889,7 @@
                 {
                     "unit": "cup",
                     "calory": 110,
+                    "amount": "",
                     "carbohydrt": 350,
                     "protein": 0,
                     "fat": 0,
@@ -58774,6 +58916,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.875,
+                    "amount": "",
                     "carbohydrt": 21.875,
                     "protein": 0,
                     "fat": 0,
@@ -58800,6 +58943,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.2916666666666665,
+                    "amount": "",
                     "carbohydrt": 7.291666666666666,
                     "protein": 0,
                     "fat": 0,
@@ -58841,7 +58985,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 13.52112676056338,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 42.59154929577465,
                     "protein": 0,
                     "fat": 0,
@@ -58863,11 +59007,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 160,
+                    "amount": "",
                     "carbohydrt": 504,
                     "protein": 0,
                     "fat": 0,
@@ -58894,6 +59039,7 @@
                 {
                     "unit": "cup",
                     "calory": 108.16901408450704,
+                    "amount": "",
                     "carbohydrt": 340.7323943661972,
                     "protein": 0,
                     "fat": 0,
@@ -58920,6 +59066,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.2535211267605635,
+                    "amount": "",
                     "carbohydrt": 7.098591549295775,
                     "protein": 0,
                     "fat": 0,
@@ -58946,6 +59093,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.76056338028169,
+                    "amount": "",
                     "carbohydrt": 21.295774647887324,
                     "protein": 0,
                     "fat": 0,
@@ -58987,7 +59135,7 @@
                 {
                     "unit": "can",
                     "calory": 160,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 43,
                     "protein": 0,
                     "fat": 0,
@@ -59009,7 +59157,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -59029,7 +59177,7 @@
                 {
                     "unit": "can",
                     "calory": 150,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 40,
                     "protein": 0,
                     "fat": 0,
@@ -59051,7 +59199,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -59071,7 +59219,7 @@
                 {
                     "unit": "floz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -59093,11 +59241,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59124,6 +59273,7 @@
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59150,6 +59300,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59176,6 +59327,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59217,7 +59369,7 @@
                 {
                     "unit": "bottle",
                     "calory": 140,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 39,
                     "protein": 0,
                     "fat": 0,
@@ -59239,7 +59391,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -59259,7 +59411,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -59281,11 +59433,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59312,6 +59465,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59338,6 +59492,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59364,6 +59519,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59405,7 +59561,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -59427,11 +59583,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59458,6 +59615,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59484,6 +59642,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -59510,6 +59669,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -63128,7 +63288,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -63229,7 +63389,7 @@
                 {
                     "unit": "jello cup",
                     "calory": 10,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 1,
                     "fat": 0,
@@ -63271,7 +63431,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 4.5,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0.9,
                     "protein": 0.15,
                     "fat": 1.5,
@@ -63293,11 +63453,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 3,
+                    "amount": "",
                     "carbohydrt": 0.6000000000000001,
                     "protein": 0.09999999999999999,
                     "fat": 1,
@@ -63324,6 +63485,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 9,
+                    "amount": "",
                     "carbohydrt": 1.7999999999999998,
                     "protein": 0.3,
                     "fat": 3,
@@ -63350,6 +63512,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.5,
+                    "amount": "",
                     "carbohydrt": 0.30000000000000004,
                     "protein": 0.049999999999999996,
                     "fat": 0.5,
@@ -63376,6 +63539,7 @@
                 {
                     "unit": "cup",
                     "calory": 72,
+                    "amount": "",
                     "carbohydrt": 14.399999999999999,
                     "protein": 2.4,
                     "fat": 24,
@@ -63417,7 +63581,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -63439,11 +63603,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -63470,6 +63635,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -63496,6 +63662,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -63522,6 +63689,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -63686,7 +63854,7 @@
                 {
                     "unit": "cup",
                     "calory": 120,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 30,
                     "protein": 0,
                     "fat": 0,
@@ -63713,6 +63881,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 15,
+                    "amount": "",
                     "carbohydrt": 3.75,
                     "protein": 0,
                     "fat": 0,
@@ -63739,6 +63908,7 @@
                 {
                     "unit": "ml",
                     "calory": 120,
+                    "amount": "",
                     "carbohydrt": 30,
                     "protein": 0,
                     "fat": 0,
@@ -63765,6 +63935,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 7.5,
+                    "amount": "",
                     "carbohydrt": 1.875,
                     "protein": 0,
                     "fat": 0,
@@ -63791,6 +63962,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.5,
+                    "amount": "",
                     "carbohydrt": 0.625,
                     "protein": 0,
                     "fat": 0,
@@ -63977,7 +64149,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -64100,7 +64272,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -64346,7 +64518,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -64447,7 +64619,7 @@
                 {
                     "unit": "crepe",
                     "calory": 134.08221797,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 20,
                     "protein": 2.9,
                     "fat": 4.4,
@@ -64469,7 +64641,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -64511,7 +64683,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -64735,7 +64907,7 @@
                 {
                     "unit": "serving",
                     "calory": 600,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 88,
                     "protein": 14,
                     "fat": 22,
@@ -64757,7 +64929,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -64777,7 +64949,7 @@
                 {
                     "unit": "crepe",
                     "calory": 137,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 17.9,
                     "protein": 2,
                     "fat": 6.6,
@@ -64799,7 +64971,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -64964,7 +65136,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -65087,7 +65259,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -65188,7 +65360,7 @@
                 {
                     "unit": "serving",
                     "calory": 1120,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 134,
                     "protein": 25,
                     "fat": 55,
@@ -65210,7 +65382,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -65252,7 +65424,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -67132,7 +67304,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0.1,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67154,11 +67326,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0.5,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67185,6 +67358,7 @@
                 {
                     "unit": "cup",
                     "calory": 0.8,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67211,6 +67385,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.016666666666666666,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67237,6 +67412,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.05,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67278,7 +67454,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.9,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0.1,
                     "protein": 0,
                     "fat": 0,
@@ -67300,11 +67476,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 0.08181818181818182,
+                    "amount": "",
                     "carbohydrt": 0.009090909090909092,
                     "protein": 0,
                     "fat": 0,
@@ -67331,6 +67508,7 @@
                 {
                     "unit": "cup",
                     "calory": 0.6545454545454545,
+                    "amount": "",
                     "carbohydrt": 0.07272727272727274,
                     "protein": 0,
                     "fat": 0,
@@ -67357,6 +67535,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.04090909090909091,
+                    "amount": "",
                     "carbohydrt": 0.004545454545454546,
                     "protein": 0,
                     "fat": 0,
@@ -67383,6 +67562,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.013636363636363636,
+                    "amount": "",
                     "carbohydrt": 0.0015151515151515152,
                     "protein": 0,
                     "fat": 0,
@@ -67424,7 +67604,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.8,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0.45,
                     "protein": 0.15,
                     "fat": 0,
@@ -67446,11 +67626,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 0.096,
+                    "amount": "",
                     "carbohydrt": 0.054,
                     "protein": 0.018,
                     "fat": 0,
@@ -67477,6 +67658,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.016,
+                    "amount": "",
                     "carbohydrt": 0.009000000000000001,
                     "protein": 0.0029999999999999996,
                     "fat": 0,
@@ -67503,6 +67685,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.048,
+                    "amount": "",
                     "carbohydrt": 0.027,
                     "protein": 0.009,
                     "fat": 0,
@@ -67529,6 +67712,7 @@
                 {
                     "unit": "cup",
                     "calory": 0.768,
+                    "amount": "",
                     "carbohydrt": 0.432,
                     "protein": 0.144,
                     "fat": 0,
@@ -67570,7 +67754,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0.10140845070422536,
                     "fat": 0,
@@ -67597,6 +67781,7 @@
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -67623,6 +67808,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -67649,6 +67835,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -67675,6 +67862,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -67716,7 +67904,7 @@
                 {
                     "unit": "floz",
                     "calory": 0.95602294,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67738,11 +67926,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0.003983429124418674,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67769,6 +67958,7 @@
                 {
                     "unit": "cup",
                     "calory": 0.95602294,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67795,6 +67985,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.05975143375,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67821,6 +68012,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.019917145176910497,
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67862,7 +68054,7 @@
                 {
                     "unit": "can",
                     "calory": 90,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 24,
                     "protein": 0,
                     "fat": 0,
@@ -67884,7 +68076,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -67904,7 +68096,7 @@
                 {
                     "unit": "can",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67926,7 +68118,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -67946,7 +68138,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 100,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 28,
                     "protein": 0,
                     "fat": 0,
@@ -67968,11 +68160,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 100,
+                    "amount": "",
                     "carbohydrt": 28,
                     "protein": 0,
                     "fat": 0,
@@ -67999,6 +68192,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.41666668839752674,
+                    "amount": "",
                     "carbohydrt": 0.11666667275130749,
                     "protein": 0,
                     "fat": 0,
@@ -68025,6 +68219,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.25,
+                    "amount": "",
                     "carbohydrt": 1.75,
                     "protein": 0,
                     "fat": 0,
@@ -68051,6 +68246,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.083333395421505,
+                    "amount": "",
                     "carbohydrt": 0.5833333507180214,
                     "protein": 0,
                     "fat": 0,
@@ -68092,7 +68288,7 @@
                 {
                     "unit": "ml",
                     "calory": 1.2667304,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0.4,
                     "protein": 0.2,
                     "fat": 0,
@@ -68114,11 +68310,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 0.8107074559999999,
+                    "amount": "",
                     "carbohydrt": 0.256,
                     "protein": 0.128,
                     "fat": 0,
@@ -68145,6 +68342,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0.10133843199999999,
+                    "amount": "",
                     "carbohydrt": 0.032,
                     "protein": 0.016,
                     "fat": 0,
@@ -68171,6 +68369,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.050669215999999996,
+                    "amount": "",
                     "carbohydrt": 0.016,
                     "protein": 0.008,
                     "fat": 0,
@@ -68197,6 +68396,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.016889738666666668,
+                    "amount": "",
                     "carbohydrt": 0.005333333333333334,
                     "protein": 0.002666666666666667,
                     "fat": 0,
@@ -68238,7 +68438,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 97,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 26,
                     "protein": 0,
                     "fat": 0,
@@ -68260,11 +68460,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 97,
+                    "amount": "",
                     "carbohydrt": 26,
                     "protein": 0,
                     "fat": 0,
@@ -68291,6 +68492,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.40416668774560094,
+                    "amount": "",
                     "carbohydrt": 0.10833333898335695,
                     "protein": 0,
                     "fat": 0,
@@ -68317,6 +68519,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.0625,
+                    "amount": "",
                     "carbohydrt": 1.625,
                     "protein": 0,
                     "fat": 0,
@@ -68343,6 +68546,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.02083339355886,
+                    "amount": "",
                     "carbohydrt": 0.5416666828095913,
                     "protein": 0,
                     "fat": 0,
@@ -68384,7 +68588,7 @@
                 {
                     "unit": "ml",
                     "calory": 100,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 27,
                     "protein": 0,
                     "fat": 0,
@@ -68406,11 +68610,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 8.450704225352112,
+                    "amount": "",
                     "carbohydrt": 2.28169014084507,
                     "protein": 0,
                     "fat": 0,
@@ -68437,6 +68642,7 @@
                 {
                     "unit": "cup",
                     "calory": 67.6056338028169,
+                    "amount": "",
                     "carbohydrt": 18.25352112676056,
                     "protein": 0,
                     "fat": 0,
@@ -68463,6 +68669,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 4.225352112676056,
+                    "amount": "",
                     "carbohydrt": 1.140845070422535,
                     "protein": 0,
                     "fat": 0,
@@ -68489,6 +68696,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.408450704225352,
+                    "amount": "",
                     "carbohydrt": 0.38028169014084506,
                     "protein": 0,
                     "fat": 0,
@@ -68530,7 +68738,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 7.2,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 23.04,
                     "protein": 0,
                     "fat": 0,
@@ -68557,6 +68765,7 @@
                 {
                     "unit": "ml",
                     "calory": 60,
+                    "amount": "",
                     "carbohydrt": 191.99999999999997,
                     "protein": 0,
                     "fat": 0,
@@ -68583,6 +68792,7 @@
                 {
                     "unit": "cup",
                     "calory": 57.6,
+                    "amount": "",
                     "carbohydrt": 184.32,
                     "protein": 0,
                     "fat": 0,
@@ -68609,6 +68819,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 3.6,
+                    "amount": "",
                     "carbohydrt": 11.52,
                     "protein": 0,
                     "fat": 0,
@@ -68635,6 +68846,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.2,
+                    "amount": "",
                     "carbohydrt": 3.84,
                     "protein": 0,
                     "fat": 0,
@@ -68676,7 +68888,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.33460803,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0.33,
                     "protein": 0.33,
                     "fat": 0,
@@ -68698,11 +68910,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 0.100382409,
+                    "amount": "",
                     "carbohydrt": 0.099,
                     "protein": 0.099,
                     "fat": 0,
@@ -68729,6 +68942,7 @@
                 {
                     "unit": "cup",
                     "calory": 0.803059272,
+                    "amount": "",
                     "carbohydrt": 0.792,
                     "protein": 0.792,
                     "fat": 0,
@@ -68755,6 +68969,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.016730401500000002,
+                    "amount": "",
                     "carbohydrt": 0.0165,
                     "protein": 0.0165,
                     "fat": 0,
@@ -68781,6 +68996,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.0501912045,
+                    "amount": "",
                     "carbohydrt": 0.0495,
                     "protein": 0.0495,
                     "fat": 0,
@@ -68822,7 +69038,7 @@
                 {
                     "unit": "ml",
                     "calory": 1.07552581,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0.1,
                     "protein": 0.1,
                     "fat": 0,
@@ -68844,11 +69060,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 0.08604206480000001,
+                    "amount": "",
                     "carbohydrt": 0.008,
                     "protein": 0.008,
                     "fat": 0,
@@ -68875,6 +69092,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0.014340344133333334,
+                    "amount": "",
                     "carbohydrt": 0.0013333333333333335,
                     "protein": 0.0013333333333333335,
                     "fat": 0,
@@ -68901,6 +69119,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0.043021032400000006,
+                    "amount": "",
                     "carbohydrt": 0.004,
                     "protein": 0.004,
                     "fat": 0,
@@ -68927,6 +69146,7 @@
                 {
                     "unit": "cup",
                     "calory": 0.6883365184000001,
+                    "amount": "",
                     "carbohydrt": 0.064,
                     "protein": 0.064,
                     "fat": 0,
@@ -68968,7 +69188,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 50,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 35,
                     "protein": 0,
                     "fat": 0,
@@ -68995,6 +69215,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.20833334419876337,
+                    "amount": "",
                     "carbohydrt": 0.14583334093913436,
                     "protein": 0,
                     "fat": 0,
@@ -69021,6 +69242,7 @@
                 {
                     "unit": "cup",
                     "calory": 50,
+                    "amount": "",
                     "carbohydrt": 35,
                     "protein": 0,
                     "fat": 0,
@@ -69047,6 +69269,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.0416666977107525,
+                    "amount": "",
                     "carbohydrt": 0.7291666883975267,
                     "protein": 0,
                     "fat": 0,
@@ -69073,6 +69296,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 3.125,
+                    "amount": "",
                     "carbohydrt": 2.1875,
                     "protein": 0,
                     "fat": 0,
@@ -69114,7 +69338,7 @@
                 {
                     "unit": "can",
                     "calory": 140,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 39,
                     "protein": 0,
                     "fat": 0,
@@ -69156,7 +69380,7 @@
                 {
                     "unit": "can 330 ml",
                     "calory": 139,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 35,
                     "protein": 0,
                     "fat": 0,
@@ -69178,7 +69402,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -69198,7 +69422,7 @@
                 {
                     "unit": "can",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -69220,7 +69444,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -69240,7 +69464,7 @@
                 {
                     "unit": "ml",
                     "calory": 105,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 54,
                     "protein": 0,
                     "fat": 0,
@@ -69262,11 +69486,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 12.6,
+                    "amount": "",
                     "carbohydrt": 6.4799999999999995,
                     "protein": 0,
                     "fat": 0,
@@ -69293,6 +69518,7 @@
                 {
                     "unit": "cup",
                     "calory": 100.8,
+                    "amount": "",
                     "carbohydrt": 51.839999999999996,
                     "protein": 0,
                     "fat": 0,
@@ -69319,6 +69545,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.3,
+                    "amount": "",
                     "carbohydrt": 3.2399999999999998,
                     "protein": 0,
                     "fat": 0,
@@ -69345,6 +69572,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.1,
+                    "amount": "",
                     "carbohydrt": 1.08,
                     "protein": 0,
                     "fat": 0,
@@ -69386,7 +69614,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -69408,11 +69636,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -69439,6 +69668,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -69465,6 +69695,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -69491,6 +69722,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -69532,7 +69764,7 @@
                 {
                     "unit": "can",
                     "calory": 140,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 38,
                     "protein": 0,
                     "fat": 0,
@@ -69554,7 +69786,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -69574,7 +69806,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 50,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 35,
                     "protein": 0,
                     "fat": 0,
@@ -69601,6 +69833,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.20833334419876337,
+                    "amount": "",
                     "carbohydrt": 0.14583334093913436,
                     "protein": 0,
                     "fat": 0,
@@ -69627,6 +69860,7 @@
                 {
                     "unit": "cup",
                     "calory": 50,
+                    "amount": "",
                     "carbohydrt": 35,
                     "protein": 0,
                     "fat": 0,
@@ -69653,6 +69887,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.0416666977107525,
+                    "amount": "",
                     "carbohydrt": 0.7291666883975267,
                     "protein": 0,
                     "fat": 0,
@@ -69679,6 +69914,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 3.125,
+                    "amount": "",
                     "carbohydrt": 2.1875,
                     "protein": 0,
                     "fat": 0,
@@ -69720,7 +69956,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 13.52112676056338,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 43.605633802816904,
                     "protein": 0,
                     "fat": 0,
@@ -69742,11 +69978,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 160,
+                    "amount": "",
                     "carbohydrt": 516,
                     "protein": 0,
                     "fat": 0,
@@ -69773,6 +70010,7 @@
                 {
                     "unit": "cup",
                     "calory": 108.16901408450704,
+                    "amount": "",
                     "carbohydrt": 348.84507042253523,
                     "protein": 0,
                     "fat": 0,
@@ -69799,6 +70037,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.2535211267605635,
+                    "amount": "",
                     "carbohydrt": 7.267605633802818,
                     "protein": 0,
                     "fat": 0,
@@ -69825,6 +70064,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 6.76056338028169,
+                    "amount": "",
                     "carbohydrt": 21.802816901408452,
                     "protein": 0,
                     "fat": 0,
@@ -69866,7 +70106,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -69888,11 +70128,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -69919,6 +70160,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -69945,6 +70187,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -69971,6 +70214,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -70012,7 +70256,7 @@
                 {
                     "unit": "bottle",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -70034,7 +70278,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -70054,7 +70298,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -70076,11 +70320,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -70107,6 +70352,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -70133,6 +70379,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -70159,6 +70406,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -70200,7 +70448,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 118,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 48,
                     "protein": 0,
                     "fat": 0,
@@ -70222,11 +70470,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 118,
+                    "amount": "",
                     "carbohydrt": 48,
                     "protein": 0,
                     "fat": 0,
@@ -70253,6 +70502,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.49166669230908155,
+                    "amount": "",
                     "carbohydrt": 0.20000001043081284,
                     "protein": 0,
                     "fat": 0,
@@ -70279,6 +70529,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.458333406597376,
+                    "amount": "",
                     "carbohydrt": 1.0000000298023224,
                     "protein": 0,
                     "fat": 0,
@@ -70305,6 +70556,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 7.375,
+                    "amount": "",
                     "carbohydrt": 3,
                     "protein": 0,
                     "fat": 0,
@@ -70346,7 +70598,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -70368,11 +70620,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -70399,6 +70652,7 @@
                 {
                     "unit": "cup",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -70425,6 +70679,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -70451,6 +70706,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
+                    "amount": "",
                     "carbohydrt": null,
                     "protein": null,
                     "fat": null,
@@ -70723,7 +70979,7 @@
                 {
                     "unit": "ml",
                     "calory": 140,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 60,
                     "protein": 0,
                     "fat": 0,
@@ -70745,11 +71001,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 17.5,
+                    "amount": "",
                     "carbohydrt": 7.5,
                     "protein": 0,
                     "fat": 0,
@@ -70776,6 +71033,7 @@
                 {
                     "unit": "cup",
                     "calory": 140,
+                    "amount": "",
                     "carbohydrt": 60,
                     "protein": 0,
                     "fat": 0,
@@ -70802,6 +71060,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.9166666666666665,
+                    "amount": "",
                     "carbohydrt": 1.25,
                     "protein": 0,
                     "fat": 0,
@@ -70828,6 +71087,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 8.75,
+                    "amount": "",
                     "carbohydrt": 3.75,
                     "protein": 0,
                     "fat": 0,
@@ -70869,7 +71129,7 @@
                 {
                     "unit": "ml",
                     "calory": 15,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 3,
                     "protein": 0,
                     "fat": 0,
@@ -70891,11 +71151,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 7.627118644067797,
+                    "amount": "",
                     "carbohydrt": 1.5254237288135595,
                     "protein": 0,
                     "fat": 0,
@@ -70922,6 +71183,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.271186440677966,
+                    "amount": "",
                     "carbohydrt": 0.2542372881355932,
                     "protein": 0,
                     "fat": 0,
@@ -70948,6 +71210,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 3.8135593220338984,
+                    "amount": "",
                     "carbohydrt": 0.7627118644067797,
                     "protein": 0,
                     "fat": 0,
@@ -70974,6 +71237,7 @@
                 {
                     "unit": "cup",
                     "calory": 61.016949152542374,
+                    "amount": "",
                     "carbohydrt": 12.203389830508476,
                     "protein": 0,
                     "fat": 0,
@@ -71015,7 +71279,7 @@
                 {
                     "unit": "serving",
                     "calory": 40,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 8,
                     "protein": 0,
                     "fat": 1,
@@ -71037,7 +71301,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -71057,7 +71321,7 @@
                 {
                     "unit": "ml",
                     "calory": 230,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 57,
                     "protein": 2,
                     "fat": 0,
@@ -71079,11 +71343,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 15.333333333333334,
+                    "amount": "",
                     "carbohydrt": 3.8,
                     "protein": 0.13333333333333333,
                     "fat": 0,
@@ -71110,6 +71375,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 2.5555555555555554,
+                    "amount": "",
                     "carbohydrt": 0.6333333333333333,
                     "protein": 0.02222222222222222,
                     "fat": 0,
@@ -71136,6 +71402,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 7.666666666666667,
+                    "amount": "",
                     "carbohydrt": 1.9,
                     "protein": 0.06666666666666667,
                     "fat": 0,
@@ -71162,6 +71429,7 @@
                 {
                     "unit": "cup",
                     "calory": 122.66666666666667,
+                    "amount": "",
                     "carbohydrt": 30.4,
                     "protein": 1.0666666666666667,
                     "fat": 0,
@@ -71203,7 +71471,7 @@
                 {
                     "unit": "ml",
                     "calory": 15,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 3,
                     "protein": 0,
                     "fat": 0,
@@ -71225,11 +71493,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "fl oz",
                     "calory": 7.627118644067797,
+                    "amount": "",
                     "carbohydrt": 1.5254237288135595,
                     "protein": 0,
                     "fat": 0,
@@ -71256,6 +71525,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.271186440677966,
+                    "amount": "",
                     "carbohydrt": 0.2542372881355932,
                     "protein": 0,
                     "fat": 0,
@@ -71282,6 +71552,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 3.8135593220338984,
+                    "amount": "",
                     "carbohydrt": 0.7627118644067797,
                     "protein": 0,
                     "fat": 0,
@@ -71308,6 +71579,7 @@
                 {
                     "unit": "cup",
                     "calory": 61.016949152542374,
+                    "amount": "",
                     "carbohydrt": 12.203389830508476,
                     "protein": 0,
                     "fat": 0,
@@ -71349,7 +71621,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 9.6080305926,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 17.28,
                     "protein": 2.88,
                     "fat": 0.96,
@@ -71371,11 +71643,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 160.13384321,
+                    "amount": "",
                     "carbohydrt": 288,
                     "protein": 48,
                     "fat": 16,
@@ -71402,6 +71675,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.6013384321000002,
+                    "amount": "",
                     "carbohydrt": 2.8800000000000003,
                     "protein": 0.48000000000000004,
                     "fat": 0.16,
@@ -71428,6 +71702,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 4.8040152963,
+                    "amount": "",
                     "carbohydrt": 8.64,
                     "protein": 1.44,
                     "fat": 0.4799999999999999,
@@ -71454,6 +71729,7 @@
                 {
                     "unit": "cup",
                     "calory": 76.8642447408,
+                    "amount": "",
                     "carbohydrt": 138.24,
                     "protein": 23.04,
                     "fat": 7.679999999999999,
@@ -71709,7 +71985,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -72267,7 +72543,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -73983,7 +74259,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "pieces",
@@ -74622,7 +74898,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -74853,7 +75129,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -75222,7 +75498,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -75453,7 +75729,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
@@ -75662,7 +75938,7 @@
                 {
                     "unit": "serving",
                     "calory": 130,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 26,
                     "fat": 2,
@@ -75684,7 +75960,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -75726,7 +76002,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "serving",
@@ -76011,7 +76287,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
@@ -76365,7 +76641,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
@@ -76596,7 +76872,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "package",
@@ -76719,7 +76995,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -76950,7 +77226,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -77535,7 +77811,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "serving",
@@ -77754,7 +78030,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -77877,7 +78153,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -78000,7 +78276,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -78231,7 +78507,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -80682,7 +80958,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -82020,7 +82296,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -82251,7 +82527,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -82374,7 +82650,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -82605,7 +82881,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -83067,7 +83343,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -83168,7 +83444,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 120,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 20,
                     "protein": 1,
                     "fat": 6,
@@ -83190,11 +83466,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
                     "calory": 60,
+                    "amount": "",
                     "carbohydrt": 10,
                     "protein": 0.5,
                     "fat": 3,
@@ -83221,6 +83498,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.25000001303851604,
+                    "amount": "",
                     "carbohydrt": 0.041666668839752674,
                     "protein": 0.0020833334419876337,
                     "fat": 0.012500000651925802,
@@ -83247,6 +83525,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 3.75,
+                    "amount": "",
                     "carbohydrt": 0.625,
                     "protein": 0.03125,
                     "fat": 0.1875,
@@ -83273,6 +83552,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 1.250000037252903,
+                    "amount": "",
                     "carbohydrt": 0.2083333395421505,
                     "protein": 0.010416666977107525,
                     "fat": 0.06250000186264515,
@@ -83336,7 +83616,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "tablespoon",
@@ -83567,7 +83847,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -83899,7 +84179,7 @@
                 {
                     "unit": "cup",
                     "calory": 140,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 44,
                     "protein": 4,
                     "fat": 10,
@@ -83921,11 +84201,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "ml",
                     "calory": 1.1666667275130749,
+                    "amount": "",
                     "carbohydrt": 0.36666668578982353,
                     "protein": 0.03333333507180214,
                     "fat": 0.08333333767950535,
@@ -83952,6 +84233,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 35,
+                    "amount": "",
                     "carbohydrt": 11,
                     "protein": 1,
                     "fat": 2.5,
@@ -83978,6 +84260,7 @@
                 {
                     "unit": "teaspoon",
                     "calory": 5.833333507180214,
+                    "amount": "",
                     "carbohydrt": 1.8333333879709244,
                     "protein": 0.1666666716337204,
                     "fat": 0.416666679084301,
@@ -84004,6 +84287,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 17.5,
+                    "amount": "",
                     "carbohydrt": 5.5,
                     "protein": 0.5,
                     "fat": 1.25,
@@ -84067,7 +84351,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -84298,7 +84582,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -84421,7 +84705,7 @@
                     "vit_e": 3.0195,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -84544,7 +84828,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -84667,7 +84951,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
@@ -84898,7 +85182,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "serving",
@@ -84999,7 +85283,7 @@
                 {
                     "unit": "tbsp",
                     "calory": 202,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 3.5,
                     "protein": 6,
                     "fat": 7,
@@ -85021,11 +85305,12 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "teaspoon",
                     "calory": 33.66666767001152,
+                    "amount": "",
                     "carbohydrt": 0.5833333507180214,
                     "protein": 1.0000000298023224,
                     "fat": 1.1666667014360428,
@@ -85052,6 +85337,7 @@
                 {
                     "unit": "ml",
                     "calory": 6.733333684504032,
+                    "amount": "",
                     "carbohydrt": 0.11666667275130749,
                     "protein": 0.20000001043081284,
                     "fat": 0.23333334550261497,
@@ -85078,6 +85364,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 202,
+                    "amount": "",
                     "carbohydrt": 3.5,
                     "protein": 6,
                     "fat": 7,
@@ -85104,6 +85391,7 @@
                 {
                     "unit": "cup",
                     "calory": 1616,
+                    "amount": "",
                     "carbohydrt": 28,
                     "protein": 48,
                     "fat": 56,
@@ -85167,7 +85455,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -85290,7 +85578,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -85521,7 +85809,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -85644,7 +85932,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -85767,7 +86055,7 @@
                     "vit_e": 11.000000000999998,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -85998,7 +86286,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -86121,7 +86409,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -86244,7 +86532,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -86367,7 +86655,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -86490,7 +86778,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
@@ -86844,7 +87132,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -87075,7 +87363,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -87321,7 +87609,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -87552,7 +87840,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -87675,7 +87963,7 @@
                     "vit_e": 0.29999999959999996,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -88884,7 +89172,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "cup",
@@ -89142,7 +89430,7 @@
                     "vit_e": 1.8116999999,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -89373,7 +89661,7 @@
                     "vit_e": 6.239999856,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -91089,7 +91377,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -91212,7 +91500,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -91335,7 +91623,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "package 1.76 oz",
@@ -91485,7 +91773,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -91608,7 +91896,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -91731,7 +92019,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -91854,7 +92142,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -91977,7 +92265,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -93051,7 +93339,7 @@
                     "vit_e": 0.46740000000000004,
                     "vit_k": 0.0,
                     "vit_b_6": 0.27798,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -93513,7 +93801,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "serving",
@@ -93636,7 +93924,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "serving",
@@ -94221,7 +94509,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -94590,7 +94878,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -95409,7 +95697,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "oz",
@@ -95640,7 +95928,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
@@ -95741,7 +96029,7 @@
                 {
                     "unit": "piece",
                     "calory": 35,
-                    "amount": "null",
+                    "amount": "",
                     "carbohydrt": 0,
                     "protein": 2,
                     "fat": 1,
@@ -95763,7 +96051,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 }
             ]
         },
@@ -96159,7 +96447,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "piece, cooked (yield from 1 lb raw meat, boneless)",
@@ -96255,7 +96543,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "lb",
@@ -96351,7 +96639,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "patty",
@@ -97374,7 +97662,7 @@
                     "vit_e": 0.0,
                     "vit_k": 0.0,
                     "vit_b_6": 0.0,
-                    "vit_b_12": 0.0
+                    "vit_b_12": ""
                 },
                 {
                     "unit": "gram",
