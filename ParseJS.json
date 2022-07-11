@@ -4925,7 +4925,7 @@
                 {
                     "unit": "cup",
                     "calory": 110,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 28,
                     "protein": 0,
                     "fat": 0,
@@ -5071,7 +5071,7 @@
                 {
                     "unit": "apple",
                     "calory": 100,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 25,
                     "protein": 0,
                     "fat": 0,
@@ -7471,7 +7471,7 @@
                 {
                     "unit": "apple",
                     "calory": 80,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 22,
                     "protein": 0,
                     "fat": 0,
@@ -10255,7 +10255,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 15,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 30,
                     "protein": 0,
                     "fat": 0,
@@ -10524,7 +10524,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -13394,7 +13394,7 @@
                 {
                     "unit": "tbsp",
                     "calory": 60,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 17,
                     "protein": 0,
                     "fat": 0,
@@ -14248,7 +14248,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 20,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 12.2,
                     "protein": 0,
                     "fat": 0,
@@ -19050,7 +19050,7 @@
                 {
                     "unit": "cup",
                     "calory": 2.3466666666666667,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0.7466666666666667,
                     "protein": 0,
                     "fat": 0,
@@ -19781,7 +19781,7 @@
                 {
                     "unit": "slices",
                     "calory": 70,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 1.3333333333333333,
                     "protein": 9.333333333333334,
                     "fat": 0.3333333333333333,
@@ -23747,7 +23747,7 @@
                 {
                     "unit": "serving",
                     "calory": 260,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 50,
                     "protein": 12,
                     "fat": 3,
@@ -30230,7 +30230,7 @@
                 {
                     "unit": "cup",
                     "calory": 200,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 37,
                     "protein": 9,
                     "fat": 2.5,
@@ -30376,7 +30376,7 @@
                 {
                     "unit": "ml",
                     "calory": 47.8,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 19,
                     "protein": 0.2,
                     "fat": 2,
@@ -32085,7 +32085,7 @@
                 {
                     "unit": "cup",
                     "calory": 60,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 8,
                     "protein": 1,
                     "fat": 2.5,
@@ -32924,7 +32924,7 @@
                 {
                     "unit": "cup",
                     "calory": 150,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 12,
                     "protein": 8,
                     "fat": 8,
@@ -33790,7 +33790,7 @@
                 {
                     "unit": "cup",
                     "calory": 64,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 15.2,
                     "protein": 0.8,
                     "fat": 0.8,
@@ -36354,7 +36354,7 @@
                 {
                     "unit": "cup",
                     "calory": 152.54237288135593,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 12.203389830508474,
                     "protein": 8.135593220338983,
                     "fat": 8.135593220338983,
@@ -37493,7 +37493,7 @@
                 {
                     "unit": "cup",
                     "calory": 110,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 13,
                     "protein": 9,
                     "fat": 2.5,
@@ -37639,7 +37639,7 @@
                 {
                     "unit": "cup",
                     "calory": 100,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 12,
                     "protein": 8,
                     "fat": 2.5,
@@ -38016,7 +38016,7 @@
                 {
                     "unit": "cup",
                     "calory": 238.25665859564165,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 32.54237288135593,
                     "protein": 8.716707021791768,
                     "fat": 8.716707021791768,
@@ -38162,7 +38162,7 @@
                 {
                     "unit": "cup",
                     "calory": 220,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 29,
                     "protein": 9,
                     "fat": 8,
@@ -44650,7 +44650,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 16.25,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 32,
                     "protein": 1,
                     "fat": 0,
@@ -48042,7 +48042,7 @@
                 {
                     "unit": "cup",
                     "calory": 164.053537296,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 25.44,
                     "protein": 8.16,
                     "fat": 4.08,
@@ -48434,7 +48434,7 @@
                 {
                     "unit": "ml",
                     "calory": 170,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 7,
                     "protein": 26,
                     "fat": 4.5,
@@ -48826,7 +48826,7 @@
                 {
                     "unit": "serving",
                     "calory": 250,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 33,
                     "protein": 3,
                     "fat": 12,
@@ -49114,7 +49114,7 @@
                 {
                     "unit": "cup",
                     "calory": 100,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 22,
                     "protein": 1,
                     "fat": 0,
@@ -49260,7 +49260,7 @@
                 {
                     "unit": "loaf",
                     "calory": 98.70936902,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 19.4,
                     "protein": 2.4,
                     "fat": 1.6,
@@ -49548,7 +49548,7 @@
                 {
                     "unit": "banana",
                     "calory": 350,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 59,
                     "protein": 5,
                     "fat": 11,
@@ -52296,7 +52296,7 @@
                 {
                     "unit": "sandwich",
                     "calory": 360,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 46,
                     "protein": 12,
                     "fat": 17,
@@ -52338,7 +52338,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 50,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 13,
                     "protein": 0,
                     "fat": 0,
@@ -55079,7 +55079,7 @@
                 {
                     "unit": "cup",
                     "calory": 122.06719999999999,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 16.64,
                     "protein": 0.64,
                     "fat": 0.64,
@@ -55225,7 +55225,7 @@
                 {
                     "unit": "ml",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -55371,7 +55371,7 @@
                 {
                     "unit": "ml",
                     "calory": 140,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 39,
                     "protein": 0,
                     "fat": 0,
@@ -56387,7 +56387,7 @@
                 {
                     "unit": "ml",
                     "calory": 120,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 33,
                     "protein": 0,
                     "fat": 0,
@@ -56656,7 +56656,7 @@
                 {
                     "unit": "ml",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -56802,7 +56802,7 @@
                 {
                     "unit": "cup",
                     "calory": 49.352112676056336,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 1.352112676056338,
                     "fat": 0,
@@ -57071,7 +57071,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 11.830985915492958,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 32.95774647887324,
                     "protein": 0,
                     "fat": 0,
@@ -57217,7 +57217,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -57363,7 +57363,7 @@
                 {
                     "unit": "can",
                     "calory": 150,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 40,
                     "protein": 0,
                     "fat": 0,
@@ -57405,7 +57405,7 @@
                 {
                     "unit": "bottle",
                     "calory": 160,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 43,
                     "protein": 0,
                     "fat": 0,
@@ -57447,7 +57447,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 11.666666666666666,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 38,
                     "protein": 0,
                     "fat": 0,
@@ -57716,7 +57716,7 @@
                 {
                     "unit": "can",
                     "calory": 140,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 38,
                     "protein": 0,
                     "fat": 0,
@@ -57758,7 +57758,7 @@
                 {
                     "unit": "ml",
                     "calory": 3.3460803099999996,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -57904,7 +57904,7 @@
                 {
                     "unit": "can",
                     "calory": 3.82409178,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0.4,
                     "protein": 0.2,
                     "fat": 0,
@@ -57946,7 +57946,7 @@
                 {
                     "unit": "ml",
                     "calory": 2.34225621,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0.45,
                     "protein": 0.15,
                     "fat": 0,
@@ -58092,7 +58092,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 100,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 2.6,
                     "protein": 0,
                     "fat": 0,
@@ -58238,7 +58238,7 @@
                 {
                     "unit": "can",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -58403,7 +58403,7 @@
                 {
                     "unit": "ml",
                     "calory": 100,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -58549,7 +58549,7 @@
                 {
                     "unit": "ml",
                     "calory": 129.06309751,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 13,
                     "protein": 0.1,
                     "fat": 0,
@@ -58695,7 +58695,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 13.75,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 43.75,
                     "protein": 0,
                     "fat": 0,
@@ -58841,7 +58841,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 13.52112676056338,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 42.59154929577465,
                     "protein": 0,
                     "fat": 0,
@@ -58987,7 +58987,7 @@
                 {
                     "unit": "can",
                     "calory": 160,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 43,
                     "protein": 0,
                     "fat": 0,
@@ -59029,7 +59029,7 @@
                 {
                     "unit": "can",
                     "calory": 150,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 40,
                     "protein": 0,
                     "fat": 0,
@@ -59071,7 +59071,7 @@
                 {
                     "unit": "floz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -59217,7 +59217,7 @@
                 {
                     "unit": "bottle",
                     "calory": 140,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 39,
                     "protein": 0,
                     "fat": 0,
@@ -59259,7 +59259,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -59405,7 +59405,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -63229,7 +63229,7 @@
                 {
                     "unit": "jello cup",
                     "calory": 10,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 1,
                     "fat": 0,
@@ -63271,7 +63271,7 @@
                 {
                     "unit": "tablespoon",
                     "calory": 4.5,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0.9,
                     "protein": 0.15,
                     "fat": 1.5,
@@ -63417,7 +63417,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -63686,7 +63686,7 @@
                 {
                     "unit": "cup",
                     "calory": 120,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 30,
                     "protein": 0,
                     "fat": 0,
@@ -64447,7 +64447,7 @@
                 {
                     "unit": "crepe",
                     "calory": 134.08221797,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 20,
                     "protein": 2.9,
                     "fat": 4.4,
@@ -64735,7 +64735,7 @@
                 {
                     "unit": "serving",
                     "calory": 600,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 88,
                     "protein": 14,
                     "fat": 22,
@@ -64777,7 +64777,7 @@
                 {
                     "unit": "crepe",
                     "calory": 137,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 17.9,
                     "protein": 2,
                     "fat": 6.6,
@@ -65188,7 +65188,7 @@
                 {
                     "unit": "serving",
                     "calory": 1120,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 134,
                     "protein": 25,
                     "fat": 55,
@@ -67132,7 +67132,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0.1,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67278,7 +67278,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.9,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0.1,
                     "protein": 0,
                     "fat": 0,
@@ -67424,7 +67424,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.8,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0.45,
                     "protein": 0.15,
                     "fat": 0,
@@ -67570,7 +67570,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0.10140845070422536,
                     "fat": 0,
@@ -67716,7 +67716,7 @@
                 {
                     "unit": "floz",
                     "calory": 0.95602294,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67862,7 +67862,7 @@
                 {
                     "unit": "can",
                     "calory": 90,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 24,
                     "protein": 0,
                     "fat": 0,
@@ -67904,7 +67904,7 @@
                 {
                     "unit": "can",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -67946,7 +67946,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 100,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 28,
                     "protein": 0,
                     "fat": 0,
@@ -68092,7 +68092,7 @@
                 {
                     "unit": "ml",
                     "calory": 1.2667304,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0.4,
                     "protein": 0.2,
                     "fat": 0,
@@ -68238,7 +68238,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 97,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 26,
                     "protein": 0,
                     "fat": 0,
@@ -68384,7 +68384,7 @@
                 {
                     "unit": "ml",
                     "calory": 100,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 27,
                     "protein": 0,
                     "fat": 0,
@@ -68530,7 +68530,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 7.2,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 23.04,
                     "protein": 0,
                     "fat": 0,
@@ -68676,7 +68676,7 @@
                 {
                     "unit": "ml",
                     "calory": 0.33460803,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0.33,
                     "protein": 0.33,
                     "fat": 0,
@@ -68822,7 +68822,7 @@
                 {
                     "unit": "ml",
                     "calory": 1.07552581,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0.1,
                     "protein": 0.1,
                     "fat": 0,
@@ -68968,7 +68968,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 50,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 35,
                     "protein": 0,
                     "fat": 0,
@@ -69114,7 +69114,7 @@
                 {
                     "unit": "can",
                     "calory": 140,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 39,
                     "protein": 0,
                     "fat": 0,
@@ -69156,7 +69156,7 @@
                 {
                     "unit": "can 330 ml",
                     "calory": 139,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 35,
                     "protein": 0,
                     "fat": 0,
@@ -69198,7 +69198,7 @@
                 {
                     "unit": "can",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -69240,7 +69240,7 @@
                 {
                     "unit": "ml",
                     "calory": 105,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 54,
                     "protein": 0,
                     "fat": 0,
@@ -69386,7 +69386,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -69532,7 +69532,7 @@
                 {
                     "unit": "can",
                     "calory": 140,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 38,
                     "protein": 0,
                     "fat": 0,
@@ -69574,7 +69574,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 50,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 35,
                     "protein": 0,
                     "fat": 0,
@@ -69720,7 +69720,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 13.52112676056338,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 43.605633802816904,
                     "protein": 0,
                     "fat": 0,
@@ -69866,7 +69866,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -70012,7 +70012,7 @@
                 {
                     "unit": "bottle",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -70054,7 +70054,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -70200,7 +70200,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 118,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 48,
                     "protein": 0,
                     "fat": 0,
@@ -70346,7 +70346,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 0,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 0,
                     "fat": 0,
@@ -70723,7 +70723,7 @@
                 {
                     "unit": "ml",
                     "calory": 140,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 60,
                     "protein": 0,
                     "fat": 0,
@@ -70869,7 +70869,7 @@
                 {
                     "unit": "ml",
                     "calory": 15,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 3,
                     "protein": 0,
                     "fat": 0,
@@ -71015,7 +71015,7 @@
                 {
                     "unit": "serving",
                     "calory": 40,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 8,
                     "protein": 0,
                     "fat": 1,
@@ -71057,7 +71057,7 @@
                 {
                     "unit": "ml",
                     "calory": 230,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 57,
                     "protein": 2,
                     "fat": 0,
@@ -71203,7 +71203,7 @@
                 {
                     "unit": "ml",
                     "calory": 15,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 3,
                     "protein": 0,
                     "fat": 0,
@@ -71349,7 +71349,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 9.6080305926,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 17.28,
                     "protein": 2.88,
                     "fat": 0.96,
@@ -75662,7 +75662,7 @@
                 {
                     "unit": "serving",
                     "calory": 130,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 26,
                     "fat": 2,
@@ -83168,7 +83168,7 @@
                 {
                     "unit": "fl oz",
                     "calory": 120,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 20,
                     "protein": 1,
                     "fat": 6,
@@ -83899,7 +83899,7 @@
                 {
                     "unit": "cup",
                     "calory": 140,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 44,
                     "protein": 4,
                     "fat": 10,
@@ -84999,7 +84999,7 @@
                 {
                     "unit": "tbsp",
                     "calory": 202,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 3.5,
                     "protein": 6,
                     "fat": 7,
@@ -95741,7 +95741,7 @@
                 {
                     "unit": "piece",
                     "calory": 35,
-                    "amount": "",
+                    "amount": "null",
                     "carbohydrt": 0,
                     "protein": 2,
                     "fat": 1,
