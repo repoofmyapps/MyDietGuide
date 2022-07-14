@@ -2,67 +2,67 @@
   "DiyetRehberim":[
     {
       "id": 1,
-      "kategori_adi": "Ana Yemekler"
+      "kategori_adi": "Main Courses"
     },
     {
       "id": 2,
-      "kategori_adi": "Diyet Tarifleri"
+      "kategori_adi": "Diet Recipes"
     },
     {
       "id": 3,
-      "kategori_adi": "Çorbalar"
+      "kategori_adi": "Soups"
     },
     {
       "id": 4,
-      "kategori_adi": "Salatalar"
+      "kategori_adi": "Salads"
     },
     {
       "id": 5,
-      "kategori_adi": "Detoks Tarifleri"
+      "kategori_adi": "Detox Recipes"
     },
     {
       "id": 6,
-      "kategori_adi": "Atıştırmalıklar"
+      "kategori_adi": "Snacks"
     },
     {
       "id": 7,
-      "kategori_adi": "Tatlılar"
+      "kategori_adi": "Desserts"
     },
     {
       "id": 8,
-      "kategori_adi": "Kahvaltılık Tarifler"
+      "kategori_adi": "Breakfast Recipes"
     },
     {
       "id": 9,
-      "kategori_adi": "Hamur İşi Tarifleri"
+      "kategori_adi": "Pastry Recipes"
     },
     {
       "id": 10,
-      "kategori_adi": "Etli Yemekler"
+      "kategori_adi": "Meat Dishes"
     },
     {
       "id": 11,
-      "kategori_adi": "Özel Gün Tarifleri"
+      "kategori_adi": "Special Day Recipes"
     },
     {
       "id": 12,
-      "kategori_adi": "Sulu Yemekler"
+      "kategori_adi": "Juicy Dishes"
     },
     {
       "id": 13,
-      "kategori_adi": "Mezeler"
+      "kategori_adi": "Appetizers"
     },
     {
       "id": 14,
-      "kategori_adi": "Pratik Yemekler"
+      "kategori_adi": "Practical Meals"
     },
     {
       "id": 15,
-      "kategori_adi": "Vejetaryen Yemekleri"
+      "kategori_adi": "Vegetarian Dishes"
     },
     {
       "id": 16,
-      "kategori_adi": "Yöresel Yemekler"
+      "kategori_adi": "Local Dishes"
     }
   ]
 }

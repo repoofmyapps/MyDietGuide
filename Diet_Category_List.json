@@ -1,24 +1,24 @@
 {
   "DiyetRehberim":[
-    {
-      "id": 1,
-      "kategori_adi": "Kilo Verdiren Diyet Listeleri"
-    },
-    {
-      "id": 2,
-      "kategori_adi": "Kilo Aldıran Diyet Listeleri"
-    },
-    {
-      "id": 3,
-      "kategori_adi": "Faydalı İçerikler"
-    },
-    {
-      "id": 4,
-      "kategori_adi": "Vejetaryen Diyet Listeleri"
-    },
-    {
-      "id": 5,
-      "kategori_adi": "Ketojenik Diyet Listeleri"
-    }
+{
+       "id": 1,
+       "kategori_adi": "Weight Loss Diet Lists"
+     },
+     {
+       "id": 2,
+       "kategori_adi": "Weight Gaining Diet Lists"
+     },
+     {
+       "id": 3,
+       "kategori_adi": "Useful Content"
+     },
+     {
+       "id": 4,
+       "kategori_adi": "Vegetarian Diet Lists"
+     },
+     {
+       "id": 5,
+       "kategori_adi": "Ketogenic Diet Lists"
+     }
   ]
 }

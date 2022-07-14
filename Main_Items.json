@@ -1,104 +1,65 @@
 {
     "DiyetRehberim":
     [
-        {
-            "diyet_id": "10",
-            "diyet_adi": "Montignac Diyeti ile Kilo Ver",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/montignac_1.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet48.html",
-            "diyet_tipi": "diyet",
-            "kategori_adi": "Kilo Verdiren Diyet Listeleri",
-            "kategori_adi_ek": "Faydalı İçerikler",
-            "diyet_yazar": "editor"
-        },
-        {
-            "diyet_id": "9",
-            "diyet_adi": "Yağ Yakıcı 5 Besin",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/yag_yakici_besinler.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet47.html",
-            "diyet_tipi": "diyet",
-            "kategori_adi": "Kilo Verdiren Diyet Listeleri",
-            "kategori_adi_ek": "Faydalı İçerikler",
-            "diyet_yazar": "editor"
-        },
-        {
-            "diyet_id": "8",
-            "diyet_adi": "7 Günlük Yumurta Diyeti",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/haslanmis_yumurta_buyuk.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet44.html",
-            "diyet_tipi": "diyet",
-            "kategori_adi": "Kilo Verdiren Diyet Listeleri",
-            "kategori_adi_ek": "Faydalı İçerikler",
-            "diyet_yazar": "editor"
-        },
-        {
-            "diyet_id": "7",
-            "diyet_adi": "Sirtfood Diyeti Nasıl Yapılır?",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/sirtfood_1.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet43.html",
-            "diyet_tipi": "diyet",
-            "kategori_adi": "Kilo Verdiren Diyet Listeleri",
-            "kategori_adi_ek": "Faydalı İçerikler",
-            "diyet_yazar": "editor"
-        },
-        {
+
+         {
             "diyet_id": "6",
-            "diyet_adi": "Yağ Yakımını Hızlandıran Detoks",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/maydanoz_detoksu.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/RecipeList/tarif48.html",
-            "diyet_tipi": "tarif",
-            "kategori_adi": "Detoks Tarifleri",
-            "kategori_adi_ek": "Diyet Tarifleri",
+            "diyet_adi": "Lose 4 Weights in 1 Week!",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/diyetitem1.jpg",
+            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet4.html",
+            "diyet_tipi": "diyet",
+            "kategori_adi": "Weight Loss Diet Lists",
+            "kategori_adi_ek": "Useful Content",
             "diyet_yazar": "editor"
         },
-        {
+         {
             "diyet_id": "5",
-            "diyet_adi": "Kızılcık Suyu Detoksu",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/kizilcik_suyu_1.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/RecipeList/tarif47.html",
-            "diyet_tipi": "tarif",
-            "kategori_adi": "Detoks Tarifleri",
-            "kategori_adi_ek": "Diyet Tarifleri",
+            "diyet_adi": "Lose Weight with the Montignac Diet",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/montignac_1.jpg",
+            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet3.html",
+            "diyet_tipi": "diyet",
+            "kategori_adi": "Weight Loss Diet Lists",
+            "kategori_adi_ek": "Useful Content",
             "diyet_yazar": "editor"
         },
         {
             "diyet_id": "4",
-            "diyet_adi": "Selanik Gevreği",
-            "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F18022022_Melikenisa_-MwBFIxjHp3GRwcruOPb%2FUPLOAD_IMG_2.jpg?alt=media&token=84af4d7d-0e4f-466b-bff3-8a2d9c96a8a6",
-            "diyet_url": "18022022_Melikenisa_-MwBFIxjHp3GRwcruOPb",
-            "diyet_tipi": "tarif",
-            "kategori_adi": "Atıştırmalıklar",
-            "kategori_adi_ek": "Kahvaltılık Tarifler",
-            "diyet_yazar": "user"
+            "diyet_adi": "7-Day Egg Diet",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/haslanmis_yumurta_buyuk.jpg",
+            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet2.html",
+            "diyet_tipi": "diyet",
+            "kategori_adi": "Weight Loss Diet Lists",
+            "kategori_adi_ek": "Useful Content",
+            "diyet_yazar": "editor"
         },
         {
             "diyet_id": "3",
-            "diyet_adi": "Mantarlı Bruksel Lahanası",
-            "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F17022022_Fulya_-Mw7octYJP5y2V0zaXBC%2FUPLOAD_IMG_1.jpg?alt=media&token=90d29895-92e1-49a9-9da6-b368eb1ec1d3",
-            "diyet_url": "17022022_Fulya_-Mw7octYJP5y2V0zaXBC",
-            "diyet_tipi": "tarif",
-            "kategori_adi": "Diyet Tarifleri",
-            "kategori_adi_ek": "Kahvaltılık Tarifler",
-            "diyet_yazar": "user"
+            "diyet_adi": "5 Foods That Burn Fat",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/yag_yakici_besinler.jpg",
+            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet1.html",
+            "diyet_tipi": "diyet",
+            "kategori_adi": "Weight Loss Diet Lists",
+            "kategori_adi_ek": "Useful Content",
+            "diyet_yazar": "editor"
         },
         {
             "diyet_id": "2",
-            "diyet_adi": "Portakallı ve Bitter Çikolatalı Fit Kek",
-            "diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F16022022_jisooorews_-Mw2IdIncueOtio-Ojhv%2Fportakalli_kek_1.jpg?alt=media&token=a4dc66f6-2db2-499e-b3d8-31785e8ffee5",
-            "diyet_url": "16022022_jisooorews_-Mw2IdIncueOtio-Ojhv",
+            "diyet_adi": "Fat Burning Detox",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/maydanoz_detoksu.jpg",
+            "diyet_url": "https://repoofmyapps.github.io/Data/RecipeList/tarif2.html",
             "diyet_tipi": "tarif",
-            "kategori_adi": "Diyet Tarifleri",
-            "kategori_adi_ek": "Atıştırmalıklar",
-            "diyet_yazar": "user"
+            "kategori_adi": "Detox Recipes",
+            "kategori_adi_ek": "Snacks",
+            "diyet_yazar": "editor"
         },
         {
             "diyet_id": "1",
-            "diyet_adi": "Smoothie Kasesi Tarifi",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/main/Images/yemek60.jpg",
+            "diyet_adi": "Natural Drink That Burns Fat Fast",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/main/Images/zencefil_detoks.jpg",
             "diyet_url": "https://repoofmyapps.github.io/Data/RecipeList/tarif1.html",
             "diyet_tipi": "tarif",
-            "kategori_adi": "Tatlı Tarifleri",
-            "kategori_adi_ek": "Atıştırmalıklar",
+            "kategori_adi": "Detox Recipes",
+            "kategori_adi_ek": "Snacks",
             "diyet_yazar": "editor"
         }
     ]
