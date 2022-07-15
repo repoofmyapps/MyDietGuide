@@ -5,8 +5,8 @@
          {
             "diyet_id": "6",
             "diyet_adi": "Lose 4 Weights in 1 Week!",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/diyetitem1.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet4.html",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/MyDietGuide/master/Images/diyetitem1.jpg",
+            "diyet_url": "https://repoofmyapps.github.io/MyDietGuide/DietList/diyet4.html",
             "diyet_tipi": "diyet",
             "kategori_adi": "Weight Loss Diet Lists",
             "kategori_adi_ek": "Useful Content",
@@ -15,8 +15,8 @@
          {
             "diyet_id": "5",
             "diyet_adi": "Lose Weight with the Montignac Diet",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/montignac_1.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet3.html",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/MyDietGuide/master/Images/montignac_1.jpg",
+            "diyet_url": "https://repoofmyapps.github.io/MyDietGuide/DietList/diyet3.html",
             "diyet_tipi": "diyet",
             "kategori_adi": "Weight Loss Diet Lists",
             "kategori_adi_ek": "Useful Content",
@@ -25,8 +25,8 @@
         {
             "diyet_id": "4",
             "diyet_adi": "7-Day Egg Diet",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/master/Images/haslanmis_yumurta_buyuk.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/DietList/diyet2.html",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/MyDietGuide/master/Images/haslanmis_yumurta_buyuk.jpg",
+            "diyet_url": "https://repoofmyapps.github.io/MyDietGuide/DietList/diyet2.html",
             "diyet_tipi": "diyet",
             "kategori_adi": "Weight Loss Diet Lists",
             "kategori_adi_ek": "Useful Content",
@@ -55,8 +55,8 @@
         {
             "diyet_id": "1",
             "diyet_adi": "Natural Drink That Burns Fat Fast",
-            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/Data/main/Images/zencefil_detoks.jpg",
-            "diyet_url": "https://repoofmyapps.github.io/Data/RecipeList/tarif1.html",
+            "diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/MyDietGuide/main/Images/zencefil_detoks.jpg",
+            "diyet_url": "https://repoofmyapps.github.io/MyDietGuide/RecipeList/tarif1.html",
             "diyet_tipi": "tarif",
             "kategori_adi": "Detox Recipes",
             "kategori_adi_ek": "Snacks",
